@@ -1,0 +1,508 @@
+	Structured comment name	Package item	Definition
+2	barometric_press	barometric pressure	Force per unit area exerted against a surface by the weight of air above that surface
+3	carb_dioxide	carbon dioxide	Carbon dioxide (gas) amount or concentration at the time of sampling
+4	carb_monoxide	carbon monoxide	Carbon monoxide (gas) amount or concentration at the time of sampling
+5	chem_administration	chemical administration	List of chemical compounds administered to the host or site where sampling occurred, and when (e.g. Antibiotics, n fertilizer, air filter); can include multiple compounds. For chemical entities of biological interest ontology (chebi) (v 163), http://purl.bioontology.org/ontology/chebi
+6	humidity	humidity	Amount of water vapour in the air, at the time of sampling
+7	methane	methane	Methane (gas) amount or concentration at the time of sampling
+8	misc_param	miscellaneous parameter	Any other measurement performed or parameter collected, that is not listed here
+9	organism_count	organism count	Total cell count of any organism (or group of organisms) per gram, volume or area of sample, should include name of organism followed by count. The method that was used for the enumeration (e.g. qPCR, atp, mpn, etc.) Should also be provided. (example: total prokaryotes; 3.5e7 cells per ml; qpcr)
+10	oxygen	oxygen	Oxygen (gas) amount or concentration at the time of sampling
+11	oxy_stat_samp	oxygenation status of sample	Oxygenation status of sample
+12	perturbation	perturbation	Type of perturbation, e.g. chemical administration, physical disturbance, etc., coupled with perturbation regimen including how many times the perturbation was repeated, how long each perturbation lasted, and the start and end time of the entire perturbation period; can include multiple perturbation types
+13	pollutants	pollutants	Pollutant types and, amount or concentrations measured at the time of sampling; can report multiple pollutants by entering numeric values preceded by name of pollutant
+14	resp_part_matter	respirable particulate matter	Concentration of substances that remain suspended in the air, and comprise mixtures of organic and inorganic substances (PM10 and PM2.5); can report multiple PM's by entering numeric values preceded by name of PM
+15	samp_salinity	sample salinity	Salinity is the total concentration of all dissolved salts in a liquid or solid (in the form of an extract obtained by centrifugation) sample. While salinity can be measured by a complete chemical analysis, this method is difficult and time consuming. More often, it is instead derived from the conductivity measurement. This is known as practical salinity. These derivations compare the specific conductance of the sample to a salinity standard such as seawater
+16	samp_store_dur	sample storage duration	Duration for which the sample was stored
+17	samp_store_loc	sample storage location	Location at which sample was stored, usually name of a specific freezer/room
+18	samp_store_temp	sample storage temperature	Temperature at which sample was stored, e.g. -80 degree Celsius
+19	samp_vol_we_dna_ext	sample volume or weight for DNA extraction	Volume (ml), weight (g) of processed sample, or surface area swabbed from sample for DNA extraction
+20	solar_irradiance	solar irradiance	The amount of solar energy that arrives at a specific area of a surface during a specific time interval
+21	temp	temperature	Temperature of the sample at the time of sampling
+22	ventilation_rate	ventilation rate	Ventilation rate of the system in the sampled premises
+23	ventilation_type	ventilation type	Ventilation system used in the sampled premises
+24	volatile_org_comp	volatile organic compounds	Concentration of carbon-based chemicals that easily evaporate at room temperature; can report multiple volatile organic compounds by entering numeric values preceded by name of compound
+25	wind_direction	wind direction	Wind direction is the direction from which a wind originates
+26	wind_speed	wind speed	Speed of wind measured at the time of sampling
+27	surf_material	surface material	Surface materials at the point of sampling
+28	surf_air_cont	surface-air contaminant	Contaminant identified on surface
+29	rel_air_humidity	relative air humidity	Partial vapor and air pressure, density of the vapor and air, or by the actual mass of the vapor and air
+30	abs_air_humidity	absolute air humidity	Actual mass of water vapor - mh20 - present in the air water vapor mixture
+31	surf_humidity	surface humidity	Surfaces: water activity as a function of air and material moisture
+32	air_temp	air temperature	Temperature of the air at the time of sampling
+33	surf_temp	surface temperature	Temperature of the surface at the time of sampling
+34	surf_moisture_ph	surface moisture pH	ph measurement of surface
+35	build_occup_type	building occupancy type	The primary function for which a building or discrete part of a building is intended to be used
+36	surf_moisture	surface moisture	Water held on a surface
+37	dew_point	dew point	The temperature to which a given parcel of humid air must be cooled, at constant barometric pressure, for water vapor to condense into water.
+41	indoor_space	indoor space	A distinguishable space within a structure, the purpose for which discrete areas of a building is used
+42	indoor_surf	indoor surface	Type of indoor surface
+43	filter_type	filter type	A device which removes solid particulates or airborne molecular contaminants
+44	heat_cool_type	heating and cooling system type	Methods of conditioning or heating a room or building
+45	substructure_type	substructure type	The substructure or under building is that largely hidden section of the building which is built off the foundations to the ground floor level
+46	building_setting	building setting	A location (geography) where a building is set
+47	light_type	light type	Application of light to achieve some practical or aesthetic effect. Lighting includes the use of both artificial light sources such as lamps and light fixtures, as well as natural illumination by capturing daylight. Can also include absence of light
+48	samp_sort_meth	sample size sorting method	Method by which samples are sorted; open face filter collecting total suspended particles, prefilter to remove particles larger than X micrometers in diameter, where common values of X would be 10 and 2.5 full size sorting in a cascade impactor.
+49	space_typ_state	space typical state	Customary or normal state of the space
+50	typ_occup_density	typical occupant density	Customary or normal density of occupants
+51	occup_samp	occupancy at sampling	Number of occupants present at time of sample within the given space
+52	occup_density_samp	occupant density at sampling	Average number of occupants at time of sampling per square footage
+53	address	address	The street name and building number where the sampling occurred.
+54	adj_room	adjacent rooms	List of rooms (room number, room name) immediately adjacent to the sampling room
+55	aero_struc	aerospace structure	Aerospace structures typically consist of thin plates with stiffeners for the external surfaces, bulkheads and frames to support the shape and fasteners such as welds, rivets, screws and bolts to hold the components together
+56	amount_light	amount of light	The unit of illuminance and luminous emittance, measuring luminous flux per unit area
+57	arch_struc	architectural structure	An architectural structure is a human-made, free-standing, immobile outdoor construction
+58	avg_occup	average daily occupancy	Daily average  occupancy of room
+59	avg_dew_point	average dew point	The average of dew point measures taken at the beginning of every hour over a 24 hour period on the sampling day
+60	avg_temp	average temperature	The average of temperatures taken at the beginning of every hour over a 24 hour period on the sampling day
+61	bathroom_count	bathroom count	The number of bathrooms in the building
+62	bedroom_count	bedroom count	The number of bedrooms in the building
+63	built_struc_age	built structure age	The age of the built structure since construction
+64	built_struc_set	built structure setting	The characterization of the location of the built structure as high or low human density
+65	built_struc_type	built structure type	A physical structure that is a body or assemblage of bodies in space to form a system capable of supporting loads
+66	ceil_area	ceiling area	The area of the ceiling space within the room
+67	ceil_cond	ceiling condition	The physical condition of the ceiling at the time of sampling; photos or video preferred; use drawings to indicate location of damaged areas
+68	ceil_finish_mat	ceiling finish material	The type of material used to finish a ceiling
+69	ceil_water_mold	ceiling signs of water/mold	Signs of the presence of mold or mildew on the ceiling
+70	ceil_struc	ceiling structure	The construction format of the ceiling
+71	ceil_texture	ceiling texture	The feel, appearance, or consistency of a ceiling surface
+72	ceil_thermal_mass	ceiling thermal mass	The ability of the ceiling to provide inertia against temperature fluctuations. Generally this means concrete that is exposed. A metal deck that supports a concrete slab will act thermally as long as it is exposed to room air flow
+73	ceil_type	ceiling type	The type of ceiling according to the ceiling's appearance or construction
+74	cool_syst_id	cooling system identifier	The cooling system identifier
+75	date_last_rain	date last rain	The date of the last time it rained
+76	build_docs	design, construction, and operation documents	The building design, construction and operation documents
+77	door_size	door area or size	The size of the door
+78	door_cond	door condition	The phsical condition of the door
+79	door_direct	door direction of opening	The direction the door opens
+80	door_loc	door location	The relative location of the door in the room
+81	door_mat	door material	The material the door is composed of
+82	door_move	door movement	The type of movement of the door
+83	door_water_mold	door signs of water/mold	Signs of the presence of mold or mildew on a door
+84	door_type	door type	The type of door material
+85	door_comp_type	door type, composite	The composite type of the door
+86	door_type_metal	door type, metal	The type of metal door
+87	door_type_wood	door type, wood	The type of wood door
+88	drawings	drawings	The buildings architectural drawings; if design is chosen, indicate phase-conceptual, schematic, design development, and construction documents
+89	elevator	elevator count	The number of elevators within the built structure
+90	escalator	escalator count	The number of escalators within the built structure
+91	exp_duct	exposed ductwork	The amount of exposed ductwork in the room
+92	exp_pipe	exposed pipes	The number of exposed pipes in the room
+93	ext_door	exterior door count	The number of exterior doors in the built structure
+94	fireplace_type	fireplace type	A firebox with chimney
+95	floor_age	floor age	The time period since installment of the carpet or flooring
+96	floor_area	floor area	The area of the floor space within the room
+97	floor_cond	floor condition	The physical condition of the floor at the time of sampling; photos or video preferred; use drawings to indicate location of damaged areas
+98	floor_count	floor count	The number of floors in the building, including basements and mechanical penthouse
+99	floor_finish_mat	floor finish material	The floor covering type; the finished surface that is walked on
+100	floor_water_mold	floor signs of water/mold	Signs of the presence of mold or mildew in a room
+101	floor_struc	floor structure	Refers to the structural elements and subfloor upon which the finish flooring is installed
+102	floor_thermal_mass	floor thermal mass	The ability of the floor to provide inertia against temperature fluctuations
+103	freq_clean	frequency of cleaning	The number of times the building is cleaned per week
+104	freq_cook	frequency of cooking	The number of times a meal is cooked per week
+105	furniture	furniture	The types of furniture present in the sampled room
+106	gender_restroom	gender of restroom	The gender type of the restroom
+107	hall_count	hallway/corridor count	The total count of hallways and cooridors in the built structure
+108	handidness	handidness	The handidness of the individual sampled
+109	heat_deliv_loc	heating delivery locations	The location of heat delivery within the room
+110	heat_system_deliv_meth	heating system delivery method	The method by which the heat is delivered through the system
+111	heat_system_id	heating system identifier	The heating system identifier
+112	height_carper_fiber	height carpet fiber mat	The average carpet fiber height in the indoor environment
+113	inside_lux	inside lux light	The recorded value at sampling time (power density)
+114	int_wall_cond	interior wall condition	The physical condition of the wall at the time of sampling; photos or video preferred; use drawings to indicate location of damaged areas
+115	last_clean	last time swept/mopped/vacuumed	The last time the floor was cleaned (swept, mopped, vacuumed)
+116	max_occup	maximum occupancy	The maximum amount of people allowed in the indoor environment
+117	mech_struc	mechanical structure	mechanical structure: a moving structure
+118	number_plants	number of houseplants	The number of plant(s) in the sampling space
+119	number_pets	number of pets	The number of pets residing in the sampled space
+120	number_resident	number of residents	The number of individuals currently occupying in the sampling location
+121	occup_document	occupancy documentation	The type of documentation of occupancy
+122	ext_wall_orient	orientations of exterior wall	The orientation of the exterior wall
+123	ext_window_orient	orientations of exterior window	The compass direction the exterior window of the room is facing
+124	rel_humidity_out	outside relative humidity	The recorded outside relative humidity value at the time of sampling
+125	pres_animal	presence of pets, animals, or insects	The number and type of animals present in the sampling space
+126	quad_pos	quadrant position	The quadrant position of the sampling room within the building
+127	rel_samp_loc	relative sampling location	The sampling location within the train car
+128	room_air_exch_rate	room air exchange rate	The rate at which outside air replaces indoor air in a given space
+129	room_architec_element	room architectural elements	The unique details and component parts that, together, form the architecture of a distinguisahable space within a built structure
+130	room_condt	room condition	The condition of the room at the time of sampling
+131	room_count	room count	The total count of rooms in the built structure including all room types
+132	room_dim	room dimensions	The length, width and height of sampling room
+133	room_door_dist	room door distance	Distance between doors (meters) in the hallway between the sampling room and adjacent rooms
+134	room_loc	room location in building	The position of the room within the building
+135	room_moist_damage_hist	room moisture damage or mold history	The history of moisture damage or mold in the past 12 months. Number of events of moisture damage or mold observed
+136	room_net_area	room net area	The net floor area of sampling room. Net area excludes wall thicknesses
+137	room_occup	room occupancy	Count of room occupancy at time of sampling
+138	room_samp_pos	room sampling position	The horizontal sampling position in the room relative to architectural elements
+139	room_type	room type	The main purpose or activity of the sampling room. A room is any distinguishable space within a structure
+140	room_vol	room volume	Volume of sampling room
+141	room_window_count	room window count	Number of windows in the room
+142	room_connected	rooms connected by a doorway	List of rooms connected to the sampling room by a doorway
+143	room_hallway	rooms that are on the same hallway	List of room(s) (room number, room name) located in the same hallway as sampling room
+144	room_door_share	rooms that share a door with sampling room	List of room(s) (room number, room name) sharing a door with the sampling room
+145	room_wall_share	rooms that share a wall with sampling room	List of room(s) (room number, room name) sharing a wall with the sampling room
+146	samp_weather	sampling day weather	The weather on the sampling day
+147	samp_floor	sampling floor	The floor of the building, where the sampling room is located
+148	samp_room_id	sampling room ID or name	Sampling room number. This ID should be consistent with the designations on the building floor plans
+149	samp_time_out	sampling time outside	The recent and long term history of outside sampling
+150	season	season	The season when sampling occurred
+151	season_use	seasonal use	The seasons the space is occupied
+152	shading_device_cond	shading device condition	The physical condition of the shading device at the time of sampling
+153	shading_device_loc	shading device location	The location of the shading device in relation to the built structure
+154	shading_device_mat	shading device material	The material the shading device is composed of
+155	shading_device_water_mold	shading device signs of water/mold	Signs of the presence of mold or mildew on the shading device
+156	shading_device_type	shading device type	The type of shading device
+157	specific_humidity	specific humidity	The mass of water vapour in a unit mass of moist air, usually expressed as grams of vapour per kilogram of air, or, in air conditioning, as grains per pound.
+158	specific	specifications	The building specifications. If design is chosen, indicate phase: conceptual, schematic, design development, construction documents
+159	temp_out	temperature outside house	The recorded temperature value at sampling time outside
+160	train_line	train line	The subway line name
+161	train_stat_loc	train station collection location	The train station collection location
+162	train_stop_loc	train stop collection location	The train stop collection location
+163	vis_media	visual media	The building visual media
+164	wall_area	wall area	The total area of the sampled room's walls
+165	wall_const_type	wall construction type	The building class of the wall defined by the composition of the building elements and fire-resistance rating.
+166	wall_finish_mat	wall finish material	The material utilized to finish the outer most layer of the wall
+167	wall_height	wall height	The average height of the walls in the sampled room
+168	wall_loc	wall location	The relative location of the wall within the room
+169	wall_water_mold	wall signs of water/mold	Signs of the presence of mold or mildew on a wall
+170	wall_surf_treatment	wall surface treatment	The surface treatment of interior wall
+171	wall_texture	wall texture	The feel, appearance, or consistency of a wall surface
+172	wall_thermal_mass	wall thermal mass	The ability of the wall to provide inertia against temperature fluctuations. Generally this means concrete or concrete block that is either exposed or covered only with paint
+173	water_feat_size	water feature size	The size of the water feature
+174	water_feat_type	water feature type	The type of water feature present within the building being sampled
+175	weekday	weekday	The day of the week when sampling occurred
+176	window_size	window area/size	The window's length and width
+177	window_cond	window condition	The physical condition of the window at the time of sampling
+178	window_cover	window covering	The type of window covering
+179	window_horiz_pos	window horizontal position	The horizontal position of the window on the wall
+180	window_loc	window location	The relative location of the window within the room
+181	window_mat	window material	The type of material used to finish a window
+182	window_open_freq	window open frequency	The number of times windows are opened per week
+183	window_water_mold	window signs of water/mold	Signs of the presence of mold or mildew on the window.
+184	window_status	window status	Defines whether the windows were open or closed during environmental testing
+185	window_type	window type	The type of windows
+186	window_vert_pos	window vertical position	The vertical position of the window on the wall
+190	ances_data	ancestral data	Information about either pedigree or other ancestral information description (e.g. parental variety in case of mutant or selection), e.g. A/3*B (meaning [(A x B) x B] x B)
+191	biol_stat	biological status	The level of genome modification
+192	genetic_mod	genetic modification	Genetic modifications of the genome of an organism, which may occur naturally by spontaneous mutation, or be introduced by some experimental means, e.g. specification of a transgene or the gene knocked-out or details of transient transfection
+193	host_common_name	host common name	Common name of the host, e.g. Human
+194	samp_capt_status	sample capture status	Reason for the sample
+195	samp_dis_stage	sample disease stage	Stage of the disease at the time of sample collection, e.g. inoculation, penetration, infection, growth and reproduction, dissemination of pathogen.
+196	host_taxid	host taxid	NCBI taxon id of the host, e.g. 9606
+197	host_subject_id	host subject id	A unique identifier by which each subject can be referred to, de-identified, e.g. #131
+198	host_age	host age	Age of host at the time of sampling; relevant scale depends on species and study, e.g. Could be seconds for amoebae or centuries for trees
+199	host_life_stage	host life stage	Description of life stage of host
+200	host_sex	host sex	Physical sex of the host
+201	host_disease_stat	host disease status	List of diseases with which the host has been diagnosed; can include multiple diagnoses. The value of the field depends on host; for humans the terms should be chosen from do (disease ontology) at http://www.disease-ontology.org, other hosts are free text
+203	host_body_habitat	host body habitat	Original body habitat where the sample was obtained from
+204	host_body_site	host body site	Name of body site where the sample was obtained from, such as a specific organ or tissue (tongue, lung etc...). For foundational model of anatomy ontology (fma) (v 4.11.0) or Uber-anatomy ontology (UBERON) (v releases/2014-06-15) terms, please see http://purl.bioontology.org/ontology/FMA or http://purl.bioontology.org/ontology/UBERON
+205	host_body_product	host body product	Substance produced by the body, e.g. Stool, mucus, where the sample was obtained from. For foundational model of anatomy ontology (fma) or Uber-anatomy ontology (UBERON) terms, please see https://www.ebi.ac.uk/ols/ontologies/fma or https://www.ebi.ac.uk/ols/ontologies/uberon
+206	host_tot_mass	host total mass	Total mass of the host at collection, the unit depends on host
+207	host_height	host height	The height of subject
+208	host_length	host length	The length of subject
+209	host_diet	host diet	Type of diet depending on the host, for animals omnivore, herbivore etc., for humans high-fat, meditteranean etc.; can include multiple diet types
+210	host_last_meal	host last meal	Content of last meal and time since feeding; can include multiple values
+211	host_growth_cond	host growth conditions	Literature reference giving growth conditions of the host
+212	host_substrate	host substrate	The growth substrate of the host
+213	host_family_relationship	host family relationship	Relationships to other hosts in the same study; can include multiple relationships
+214	host_infra_specific_name	host infra-specific name	Taxonomic information about the host below subspecies level
+215	host_infra_specific_rank	host infra-specific rank	Taxonomic rank information about the host below subspecies level, such as variety, form, rank etc.
+216	host_genotype	host genotype	Observed genotype
+217	host_phenotype	host phenotype	Phenotype of human or other host. For phenotypic quality ontology (pato) (v 2018-03-27) terms, please see http://purl.bioontology.org/ontology/pato. For Human Phenotype Ontology (HP) (v 2018-06-13) please see http://purl.bioontology.org/ontology/HP
+218	host_body_temp	host body temperature	Core body temperature of the host when sample was collected
+219	host_dry_mass	host dry mass	Measurement of dry mass
+220	host_blood_press_diast	host blood pressure diastolic	Resting diastolic blood pressure, measured as mm mercury
+221	host_blood_press_syst	host blood pressure systolic	Resting systolic blood pressure, measured as mm mercury
+222	host_color	host color	The color of host
+223	host_shape	host shape	Morphological shape of host
+224	gravidity	gravidity	Whether or not subject is gravid, and if yes date due or date post-conception, specifying which is used
+239	ihmc_medication_code	IHMC medication code	Can include multiple medication codes
+242	host_body_product	host body product	Substance produced by the host's body, e.g. stool, mucus, where the sample was obtained from. For foundational model of anatomy ontology (fma) (v 4.11.0) or Uber-anatomy ontology (UBERON) (v releases/2014-06-15) terms, please see http://purl.bioontology.org/ontology/FMA or http://purl.bioontology.org/ontology/UBERON
+251	smoker	smoker	Specification of smoking status
+252	host_hiv_stat	host HIV status	HIV status of subject, if yes HAART initiation status should also be indicated as [YES or NO]
+253	drug_usage	drug usage	Any drug used by subject and the frequency of usage; can include multiple drugs used
+254	host_body_mass_index	host body-mass index	Body mass index, calculated as weight/(height)squared
+255	diet_last_six_month	major diet change in last six months	Specification of major diet changes in the last six months, if yes the change should be specified
+256	weight_loss_3_month	weight loss in last three months	Specification of weight loss in the last three months, if yes should be further specified to include amount of weight loss
+257	ihmc_ethnicity	IHMC ethnicity	Ethnicity of the subject
+258	host_occupation	host occupation	Most frequent job performed by subject
+259	pet_farm_animal	presence of pets or farm animals	Specification of presence of pets or farm animals in the environment of subject, if yes the animals should be specified; can include multiple animals present
+260	travel_out_six_month	travel outside the country in last six months	Specification of the countries travelled in the last six months; can include multiple travels
+261	twin_sibling	twin sibling presence	Specification of twin sibling presence
+262	medic_hist_perform	medical history performed	Whether full medical history was collected
+263	study_complt_stat	study completion status	Specification of study completion status, if no the reason should be specified
+264	pulmonary_disord	lung/pulmonary disorder	History of pulmonary disorders; can include multiple disorders
+265	nose_throat_disord	lung/nose-throat disorder	History of nose-throat disorders; can include multiple disorders
+266	blood_blood_disord	blood/blood disorder	History of blood disorders; can include multiple disorders
+267	host_pulse	host pulse	Resting pulse, measured as beats per minute
+268	gestation_state	amniotic fluid/gestation state	Specification of the gestation state
+269	maternal_health_stat	amniotic fluid/maternal health status	Specification of the maternal health status
+270	foetal_health_stat	amniotic fluid/foetal health status	Specification of foetal health status, should also include abortion
+271	amniotic_fluid_color	amniotic fluid/color	Specification of the color of the amniotic fluid sample
+272	kidney_disord	urine/kidney disorder	History of kidney disorders; can include multiple disorders
+273	urogenit_tract_disor	urine/urogenital tract disorder	History of urogenitaltract disorders; can include multiple disorders
+274	urine_collect_meth	urine/collection method	Specification of urine collection method
+285	gastrointest_disord	gastrointestinal tract disorder	History of gastrointestinal tract disorders; can include multiple disorders
+286	liver_disord	liver disorder	History of liver disorders; can include multiple disorders
+287	special_diet	special diet	Specification of special diet; can include multiple special diets
+319	nose_mouth_teeth_throat_disord	nose/mouth/teeth/throat disorder	History of nose/mouth/teeth/throat disorders; can include multiple disorders
+320	time_last_toothbrush	time since last toothbrushing	Specification of the time since last toothbrushing
+352	dermatology_disord	dermatology disorder	History of dermatology disorders; can include multiple disorders
+353	time_since_last_wash	time since last wash	Specification of the time since last wash
+354	dominant_hand	dominant hand	Dominant hand of the subject
+386	menarche	menarche	Date of most recent menstruation
+387	sexual_act	sexual activity	Current sexual partner and frequency of sex
+388	pregnancy	pregnancy	Date due of pregnancy
+389	douche	douche	Date of most recent douche
+390	birth_control	birth control	Specification of birth control medication used
+391	menopause	menopause	Date of onset of menopause
+392	hrt	HRT	Whether subject had hormone replacement theraphy, and if yes start date
+393	hysterectomy	hysterectomy	Specification of whether hysterectomy was performed
+394	gynecologic_disord	gynecological disorder	History of gynecological disorders; can include multiple disorders
+395	urogenit_disord	urogenital disorder	History of urogenital disorders, can include multiple disorders
+427	hcr	hydrocarbon resource type	"Main Hydrocarbon Resource type. The term ""Hydrocarbon Resource"" HCR defined as a natural environmental feature containing large amounts of hydrocarbons at high concentrations potentially suitable for commercial exploitation.  This term should not be confused with the Hydrocarbon Occurrence term which also includes hydrocarbon-rich environments with currently limited commercial interest such as seeps, outcrops, gas hydrates etc. If ""other"" is specified, please propose entry in ""additional info"" field"
+428	hc_produced	hydrocarbon type produced	"Main hydrocarbon type produced from resource (i.e. Oil, gas, condensate, etc). If ""other"" is specified, please propose entry in ""additional info"" field"
+429	basin	basin name	Name of the basin (e.g. Campos)
+430	field	field name	Name of the hydrocarbon field (e.g. Albacora)
+431	reservoir	reservoir name	Name of the reservoir (e.g. Carapebus)
+432	hcr_temp	hydrocarbon resource original temperature	Original temperature of the hydrocarbon resource
+433	tvdss_of_hcr_temp	depth (TVDSS) of hydrocarbon resource temperature	True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original temperature was measured (e.g. 1345 m)
+434	hcr_pressure	hydrocarbon resource original pressure	Original pressure of the hydrocarbon resource
+435	tvdss_of_hcr_pressure	depth (TVDSS) of hydrocarbon resource pressure	True vertical depth subsea (TVDSS) of the hydrocarbon resource where the original pressure was measured (e.g. 1578 m )
+436	permeability	permeability	Measure of the ability of a hydrocarbon resource to allow fluids to pass through it. (Additional information: https://en.wikipedia.org/wiki/Permeability_(earth_sciences))
+437	porosity	porosity	Porosity of deposited sediment is volume of voids divided by the total volume of sample
+438	lithology	lithology	"Hydrocarbon resource main lithology (Additional information: http://petrowiki.org/Lithology_and_rock_type_determination). If ""other"" is specified, please propose entry in ""additional info"" field"
+439	depos_env	depositional environment	"Main depositional environment (https://en.wikipedia.org/wiki/Depositional_environment). If ""other"" is specified, please propose entry in ""additional info"" field"
+440	hcr_geol_age	hydrocarbon resource geological age	"Geological age of hydrocarbon resource (Additional info: https://en.wikipedia.org/wiki/Period_(geology)). If ""other"" is specified, please propose entry in ""additional info"" field"
+441	owc_tvdss	oil water contact depth	Depth of the original oil water contact (OWC) zone (average) (m TVDSS)
+442	hcr_fw_salinity	formation water salinity	Original formation water salinity (prior to secondary recovery e.g. Waterflooding) expressed as TDS
+443	sulfate_fw	sulfate in formation water	Original sulfate concentration in the hydrocarbon resource
+444	vfa_fw	vfa in formation water	Original volatile fatty acid concentration in the hydrocarbon resource
+445	sr_kerog_type	source rock kerogen type	"Origin of kerogen. Type I: Algal (aquatic), Type II: planktonic and soft plant material (aquatic or terrestrial), Type III: terrestrial woody/ fibrous plant material (terrestrial), Type IV: oxidized recycled woody debris (terrestrial) (additional information: https://en.wikipedia.org/wiki/Kerogen). If ""other"" is specified, please propose entry in ""additional info"" field"
+446	sr_lithology	source rock lithology	"Lithology of source rock (https://en.wikipedia.org/wiki/Source_rock). If ""other"" is specified, please propose entry in ""additional info"" field"
+447	sr_dep_env	source rock depositional environment	"Source rock depositional environment (https://en.wikipedia.org/wiki/Source_rock). If ""other"" is specified, please propose entry in ""additional info"" field"
+448	sr_geol_age	source rock geological age	"Geological age of source rock (Additional info: https://en.wikipedia.org/wiki/Period_(geology)). If ""other"" is specified, please propose entry in ""additional info"" field"
+449	samp_well_name	sample well name	Name of the well (e.g. BXA1123) where sample was taken
+450	win	well identification number	A unique identifier of a well or wellbore. This is part of the Global Framework for Well Identification initiative which is compiled by the Professional Petroleum Data Management Association (PPDM) in an effort to improve well identification systems. (Supporting information: https://ppdm.org/ and http://dl.ppdm.org/dl/690)
+451	samp_type	sample type	"Type of material (i.e. sample) collected. Includes types like core, rock trimmings, drill cuttings, piping section, coupon, pigging debris, solid deposit, produced fluid, produced water, injected water, swabs, etc. If ""other"" is specified, please propose entry in ""additional info"" field"
+452	samp_subtype	sample subtype	"Name of sample sub-type. For example if ""sample type"" is ""Produced Water"" then subtype could be ""Oil Phase"" or ""Water Phase"". If ""other"" is specified, please propose entry in ""additional info"" field"
+454	pressure	pressure	Pressure to which the sample is subject to, in atmospheres
+455	samp_tvdss	sample true vertical depth subsea	Depth of the sample i.e. The vertical distance between the sea level and the sampled position in the subsurface. Depth can be reported as an interval for subsurface samples e.g. 1325.75-1362.25 m
+456	samp_md	sample measured depth	"In non deviated well, measured depth is equal to the true vertical depth, TVD (TVD=TVDSS plus the reference or datum it refers to). In deviated wells, the MD is the length of trajectory of the borehole measured from the same reference or datum. Common datums used are ground level (GL), drilling rig floor (DF), rotary table (RT), kelly bushing (KB) and mean sea level (MSL). If ""other"" is specified, please propose entry in ""additional info"" field"
+459	samp_transport_cond	sample transport conditions	Sample transport duration (in days or hrs) and temperature the sample was exposed to (e.g. 5.5 days; 20 ¬∞C)
+465	organism_count_qpcr_info	organism count qPCR information	If qpcr was used for the cell count, the target gene name, the primer sequence and the cycling conditions should also be provided. (Example: 16S rrna; FWD:ACGTAGCTATGACGT REV:GTGCTAGTCGAGTAC; initial denaturation:90C_5min; denaturation:90C_2min; annealing:52C_30 sec; elongation:72C_30 sec; 90 C for 1 min; final elongation:72C_5min; 30 cycles)
+466	ph	pH	Ph measurement of the sample, or liquid portion of sample, or aqueous phase of the fluid
+468	alkalinity	alkalinity	Alkalinity, the ability of a solution to neutralize acids to the equivalence point of carbonate or bicarbonate
+469	alkalinity_method	alkalinity method	Method used for alkalinity measurement
+470	sulfate	sulfate	Concentration of sulfate in the sample
+471	sulfide	sulfide	Concentration of sulfide in the sample
+472	tot_sulfur	total sulfur	Concentration of total sulfur in the sample
+473	nitrate	nitrate	Concentration of nitrate in the sample
+474	nitrite	nitrite	Concentration of nitrite in the sample
+475	ammonium	ammonium	Concentration of ammonium in the sample
+476	tot_nitro	total nitrogen concentration	Total nitrogen concentration of water samples, calculated by: total nitrogen = total dissolved nitrogen + particulate nitrogen. Can also be measured without filtering, reported as nitrogen
+477	diss_iron	dissolved iron	Concentration of dissolved iron in the sample
+478	sodium	sodium	Sodium concentration in the sample
+479	chloride	chloride	Concentration of chloride in the sample
+480	potassium	potassium	Concentration of potassium in the sample
+481	magnesium	magnesium	Concentration of magnesium in the sample
+482	calcium	calcium	Concentration of calcium in the sample
+483	tot_iron	total iron	Concentration of total iron in the sample
+484	diss_org_carb	dissolved organic carbon	Concentration of dissolved organic carbon in the sample, liquid portion of the sample, or aqueous phase of the fluid
+485	diss_inorg_carb	dissolved inorganic carbon	Dissolved inorganic carbon concentration in the sample, typically measured after filtering the sample using a 0.45 micrometer filter
+486	diss_inorg_phosp	dissolved inorganic phosphorus	Concentration of dissolved inorganic phosphorus in the sample
+487	tot_phosp	total phosphorus	Total phosphorus concentration in the sample, calculated by: total phosphorus = total dissolved phosphorus + particulate phosphorus
+488	suspend_solids	suspended solids	Concentration of substances including a wide variety of material, such as silt, decaying plant and animal matter; can include multiple substances
+489	density	density	Density of the sample, which is its mass per unit volume (aka volumetric mass density)
+490	diss_carb_dioxide	dissolved carbon dioxide	Concentration of dissolved carbon dioxide in the sample or liquid portion of the sample
+491	diss_oxygen_fluid	dissolved oxygen in fluids	Concentration of dissolved oxygen in the oil field produced fluids as it contributes to oxgen-corrosion and microbial activity (e.g. Mic).
+492	vfa	volatile fatty acids	Concentration of Volatile Fatty Acids in the sample
+493	benzene	benzene	Concentration of benzene in the sample
+494	toluene	toluene	Concentration of toluene in the sample
+495	ethylbenzene	ethylbenzene	Concentration of ethylbenzene in the sample
+496	xylene	xylene	Concentration of xylene in the sample
+497	api	API gravity	API gravity is a measure of how heavy or light a petroleum liquid is compared to water (source: https://en.wikipedia.org/wiki/API_gravity) (e.g. 31.1¬∞ API)
+498	tan	total acid number	Total Acid Number¬†(TAN) is a measurement of acidity that is determined by the amount of¬†potassium hydroxide¬†in milligrams that is needed to neutralize the acids in one gram of oil.¬†It is an important quality measurement of¬†crude oil. (source: https://en.wikipedia.org/wiki/Total_acid_number)
+499	viscosity	viscosity	A measure of oil's resistance¬†to gradual deformation by¬†shear stress¬†or¬†tensile stress (e.g. 3.5 cp;  100 ¬∞C)
+500	pour_point	pour point	Temperature at which a liquid becomes semi solid and loses its flow characteristics. In crude oil a high¬†pour point¬†is generally associated with a high paraffin content, typically found in crude deriving from a larger proportion of plant material.  (soure: https://en.wikipedia.org/wiki/pour_point)
+501	saturates_pc	saturates wt%	Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)
+502	aromatics_pc	aromatics wt%	Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)
+503	resins_pc	resins wt%	Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)
+504	asphaltenes_pc	asphaltenes wt%	Saturate, Aromatic, Resin and Asphaltene¬†(SARA) is an analysis method that divides¬†crude oil¬†components according to their polarizability and polarity. There are three main methods to obtain SARA results. The most popular one is known as the Iatroscan TLC-FID and is referred to as IP-143 (source: https://en.wikipedia.org/wiki/Saturate,_aromatic,_resin_and_asphaltene)
+506	additional_info	additional info	Information that doesn't fit anywhere else. Can also be used to propose new entries for fields with controlled vocabulary
+522	prod_start_date	production start date	Date of field's first production
+523	prod_rate	production rate	Oil and/or gas production rates per well (e.g. 524 m3 / day)
+524	water_production_rate	water production rate	Water production rates per well (e.g. 987 m3 / day)
+525	water_cut	water cut	Current amount of water (%) in a produced fluid stream; or the average of the combined streams
+526	iwf	injection water fraction	Proportion of the produced fluids derived from injected water at the time of sampling. (e.g. 87%)
+527	add_recov_method	secondary and tertiary recovery methods and start date	"Additional (i.e. Secondary, tertiary, etc.) recovery methods deployed for increase of hydrocarbon recovery from resource and start date for each one of them. If ""other"" is specified, please propose entry in ""additional info"" field"
+528	iw_bt_date_well	injection water breakthrough date of specific well	Injection water breakthrough date per well following a  secondary and/or tertiary recovery
+529	biocide	biocide administration	List of biocides (commercial name of product and supplier) and date of administration
+530	biocide_admin_method	biocide administration method	Method of biocide administration (dose, frequency, duration, time elapsed between last biociding and sampling) (e.g. 150 mg/l; weekly; 4 hr; 3 days)
+531	chem_treatment	chemical treatment	List of chemical compounds administered upstream the sampling location where sampling occurred (e.g. Glycols, H2S scavenger, corrosion and scale inhibitors, demulsifiers, and other production chemicals etc.). The commercial name of the product and name of the supplier should be provided.  The date of administration should also be included
+532	chem_treatment_method	chemical treatment method	Method of chemical administration(dose, frequency, duration, time elapsed between administration and sampling) (e.g. 50 mg/l; twice a week; 1 hr; 0 days)
+533	samp_loc_corr_rate	corrosion rate at sample location	Metal corrosion rate is the speed of metal deterioration due to environmental conditions. As environmental conditions change corrosion rates change accordingly. Therefore, long term corrosion rates are generally more informative than short term rates and for that reason they are preferred during reporting. In the case of suspected MIC, corrosion rate measurements at the time of sampling might provide insights into the involvement of certain microbial community members in MIC as well as potential microbial interplays
+538	samp_collection_point	sample collection point	"Sampling  point on the asset were sample was collected (e.g. Wellhead, storage tank, separator, etc). If ""other"" is specified, please propose entry in ""additional info"" field"
+542	samp_preserv	preservative added to sample	Preservative added to the sample (e.g. Rnalater, alcohol, formaldehyde, etc.). Where appropriate include volume added (e.g. Rnalater; 2 ml)
+594	alkyl_diethers	alkyl diethers	Concentration of alkyl diethers
+595	aminopept_act	aminopeptidase activity	Measurement of aminopeptidase activity
+597	bacteria_carb_prod	bacterial carbon production	Measurement of bacterial carbon production
+598	biomass	biomass	Amount of biomass; should include the name for the part of biomass measured, e.g. Microbial, total. Can include multiple measurements
+599	bishomohopanol	bishomohopanol	Concentration of bishomohopanol
+600	bromide	bromide	Concentration of bromide
+602	carb_nitro_ratio	carbon/nitrogen ratio	Ratio of amount or concentrations of carbon to nitrogen
+605	chlorophyll	chlorophyll	Concentration of chlorophyll
+606	diether_lipids	diether lipids	Concentration of diether lipids; can include multiple types of diether lipids
+608	diss_hydrogen	dissolved hydrogen	Concentration of dissolved hydrogen
+611	diss_org_nitro	dissolved organic nitrogen	Dissolved organic nitrogen concentration measured as; total dissolved nitrogen - NH4 - NO3 - NO2
+612	diss_oxygen	dissolved oxygen	Concentration of dissolved oxygen
+613	glucosidase_act	glucosidase activity	Measurement of glucosidase activity
+615	mean_frict_vel	mean friction velocity	Measurement of mean friction velocity
+616	mean_peak_frict_vel	mean peak friction velocity	Measurement of mean peak friction velocity
+619	n_alkanes	n-alkanes	Concentration of n-alkanes; can include multiple n-alkanes
+622	nitro	nitrogen	Concentration of nitrogen (total)
+623	org_carb	organic carbon	Concentration of organic carbon
+624	org_matter	organic matter	Concentration of organic matter
+625	org_nitro	organic nitrogen	Concentration of organic nitrogen
+629	part_org_carb	particulate organic carbon	Concentration of particulate organic carbon
+631	petroleum_hydrocarb	petroleum hydrocarbon	Concentration of petroleum hydrocarbon
+632	phaeopigments	phaeopigments	Concentration of phaeopigments; can include multiple phaeopigments
+633	phosphate	phosphate	Concentration of phosphate
+634	phosplipid_fatt_acid	phospholipid fatty acid	Concentration of phospholipid fatty acids; can include multiple values
+637	redox_potential	redox potential	Redox potential, measured relative to a hydrogen cell, indicating oxidation or reduction potential
+638	salinity	salinity	Salinity is the total concentration of all dissolved salts in a water sample. While salinity can be measured by a complete chemical analysis, this method is difficult and time consuming. More often, it is instead derived from the conductivity measurement. This is known as practical salinity. These derivations compare the specific conductance of the sample to a salinity standard such as seawater
+643	silicate	silicate	Concentration of silicate
+648	tot_carb	total carbon	Total carbon content
+649	tot_nitro_content	total nitrogen content	Total nitrogen content of the sample
+650	tot_org_carb	total organic carbon	Definition for soil: total organic carbon content of the soil, definition otherwise: total organic carbon content
+651	turbidity	turbidity	Measure of the amount of cloudiness or haziness in water caused by individual particles
+652	water_content	water content	Water content measurement
+696	water_current	water current	Measurement of magnitude and direction of flow within a fluid
+699	air_temp_regm	air temperature regimen	Information about treatment involving an exposure to varying temperatures; should include the temperature, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include different temperature regimens
+701	antibiotic_regm	antibiotic regimen	Information about treatment involving antibiotic administration; should include the name of antibiotic, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple antibiotic regimens
+703	biotic_regm	biotic regimen	Information about treatment(s) involving use of biotic factors, such as bacteria, viruses or fungi.
+705	chem_mutagen	chemical mutagen	Treatment involving use of mutagens; should include the name of mutagen, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple mutagen regimens
+706	climate_environment	climate environment	Treatment involving an exposure to a particular climate; treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple climates
+707	cult_root_med	culture rooting medium	Name or reference for the hydroponic or in vitro culture rooting medium; can be the name of a commonly used medium or reference to a specific medium, e.g. Murashige and Skoog medium. If the medium has not been formally published, use the rooting medium descriptors.
+708	fertilizer_regm	fertilizer regimen	Information about treatment involving the use of fertilizers; should include the name of fertilizer, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple fertilizer regimens
+709	fungicide_regm	fungicide regimen	Information about treatment involving use of fungicides; should include the name of fungicide, amount administered,  treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple fungicide regimens
+710	gaseous_environment	gaseous environment	Use of conditions with differing gaseous environments; should include the name of gaseous compound, amount administered, treatment duration, interval and total experimental duration; can include multiple gaseous environment regimens
+712	gravity	gravity	Information about treatment involving use of gravity factor to study various types of responses in presence, absence or modified levels of gravity; treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple treatments
+713	growth_facil	growth facility	Type of facility where the sampled plant was grown; controlled vocabulary: growth chamber, open top chamber, glasshouse, experimental garden, field. Alternatively use Crop Ontology (CO) terms, see http://www.cropontology.org/ontology/CO_715/Crop%20Research
+714	growth_habit	growth habit	Characteristic shape, appearance or growth form of a plant species
+715	growth_hormone_regm	growth hormone regimen	Information about treatment involving use of growth hormones; should include the name of growth hormone, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple growth hormone regimens
+716	herbicide_regm	herbicide regimen	Information about treatment involving use of herbicides; information about treatment involving use of growth hormones; should include the name of herbicide, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+730	host_wet_mass	host wet mass	Measurement of wet mass
+731	humidity_regm	humidity regimen	Information about treatment involving an exposure to varying degree of humidity; information about treatment involving use of growth hormones; should include amount of humidity administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+732	light_regm	light regimen	Information about treatment(s) involving exposure to light, including both light intensity and quality.
+733	mechanical_damage	mechanical damage	Information about any mechanical damage exerted on the plant; can include multiple damages and sites
+734	mineral_nutr_regm	mineral nutrient regimen	Information about treatment involving the use of mineral supplements; should include the name of mineral nutrient, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple mineral nutrient regimens
+736	non_mineral_nutr_regm	non-mineral nutrient regimen	Information about treatment involving the exposure of plant to non-mineral nutrient such as oxygen, hydrogen or carbon; should include the name of non-mineral nutrient, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple non-mineral nutrient regimens
+739	ph_regm	pH regimen	Information about treatment involving exposure of plants to varying levels of ph of the growth media, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimen
+741	pesticide_regm	pesticide regimen	Information about treatment involving use of insecticides; should include the name of pesticide, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple pesticide regimens
+742	plant_growth_med	plant growth medium	Specification of the media for growing the plants or tissue cultured samples, e.g. soil, aeroponic, hydroponic, in vitro solid culture medium, in vitro liquid culture medium. Recommended value is a specific value from EO:plant growth medium (follow this link for terms http://purl.obolibrary.org/obo/EO_0007147) or other controlled vocabulary
+743	plant_product	plant product	Substance produced by the plant, where the sample was obtained from
+744	plant_sex	plant sex	Sex of the reproductive parts on the whole plant, e.g. pistillate, staminate, monoecieous, hermaphrodite.
+745	plant_struc	plant structure	Name of plant structure the sample was obtained from; for Plant Ontology (PO) (v releases/2017-12-14) terms, see http://purl.bioontology.org/ontology/PO, e.g. petiole epidermis (PO_0000051). If an individual flower is sampled, the sex of it can be recorded here.
+746	radiation_regm	radiation regimen	Information about treatment involving exposure of plant or a plant part to a particular radiation regimen; should include the radiation type, amount or intensity administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple radiation regimens
+747	rainfall_regm	rainfall regimen	Information about treatment involving an exposure to a given amount of rainfall, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+748	root_cond	rooting conditions	Relevant rooting conditions such as field plot size, sowing density, container dimensions, number of plants per container.
+749	root_med_carbon	rooting medium carbon	Source of organic carbon in the culture rooting medium; e.g. sucrose.
+750	root_med_macronutr	rooting medium macronutrients	Measurement of the culture rooting medium macronutrients (N,P, K, Ca, Mg, S); e.g. KH2PO4 (170¬†mg/L).
+751	root_med_micronutr	rooting medium micronutrients	Measurement of the culture rooting medium micronutrients (Fe, Mn, Zn, B, Cu, Mo); e.g. H3BO3 (6.2¬†mg/L).
+752	root_med_suppl	rooting medium organic supplements	Organic supplements of the culture rooting medium, such as vitamins, amino acids, organic acids, antibiotics activated charcoal; e.g. nicotinic acid (0.5¬†mg/L).
+753	root_med_ph	rooting medium pH	pH measurement of the culture rooting medium; e.g. 5.5.
+754	root_med_regl	rooting medium regulators	Growth regulators in the culture rooting medium such as cytokinins, auxins, gybberellins, abscisic acid; e.g. 0.5¬†mg/L NAA.
+755	root_med_solid	rooting medium solidifier	Specification of the solidifying agent in the culture rooting medium; e.g. agar.
+756	salt_regm	salt regimen	Information about treatment involving use of salts as supplement to liquid and soil growth media; should include the name of salt, amount administered, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple salt regimens
+764	season_environment	seasonal environment	Treatment involving an exposure to a particular season (e.g. Winter, summer, rabi, rainy etc.), treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment
+765	standing_water_regm	standing water regimen	Treatment involving an exposure to standing water during a plant's life span, types can be flood water or standing water, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+767	tiss_cult_growth_med	tissue culture growth media	Description of plant tissue culture growth media used
+768	water_temp_regm	water temperature regimen	Information about treatment involving an exposure to water with varying degree of temperature, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+769	watering_regm	watering regimen	Information about treatment involving an exposure to watering frequencies, treatment regimen including how many times the treatment was repeated, how long each treatment lasted, and the start and end time of the entire treatment; can include multiple regimens
+809	particle_class	particle classification	Particles are classified, based on their size, into six general categories:clay, silt, sand, gravel, cobbles, and boulders; should include amount of particle preceded by the name of the particle type; can include multiple values
+825	sediment_type	sediment type	Information about the sediment type based on major constituents
+831	tidal_stage	tidal stage	Stage of tide
+833	tot_depth_water_col	total depth of water column	Measurement of total depth of water column
+840	cur_land_use	current land use	Present state of sample site
+841	cur_vegetation	current vegetation	Vegetation classification from one or more standard classification systems, or agricultural crop
+842	cur_vegetation_meth	current vegetation method	Reference or method used in vegetation classification
+843	previous_land_use	history/previous land use	Previous land use and dates
+844	previous_land_use_meth	history/previous land use method	Reference or method used in determining previous land use and dates
+845	crop_rotation	history/crop rotation	Whether or not crop is rotated, and if yes, rotation schedule
+846	agrochem_addition	history/agrochemical additions	Addition of fertilizers, pesticides, etc. - amount and time of applications
+847	tillage	history/tillage	Note method(s) used for tilling
+848	fire	history/fire	Historical and/or physical evidence of fire
+849	flooding	history/flooding	Historical and/or physical evidence of flooding
+850	extreme_event	history/extreme events	Unusual physical events that may have affected microbial populations
+851	horizon	horizon	Specific layer in the land area which measures parallel to the soil surface and possesses physical characteristics which differ from the layers above and beneath
+852	horizon_meth	horizon method	Reference or method used in determining the horizon
+853	sieving	composite design/sieving (if any)	Collection design of pooled samples and/or sieve size and amount of sample sieved
+855	water_content_soil_meth	water content method	Reference or method used in determining the water content of soil
+857	pool_dna_extracts	pooling of DNA extracts (if done)	Indicate whether multiple DNA extractions were mixed. If the answer yes, the number of extracts that were pooled should be given
+858	store_cond	storage conditions (fresh/frozen/other)	Explain how and for how long the soil sample was stored before DNA extraction
+859	link_climate_info	link to climate information	Link to climate resource
+860	annual_temp	mean annual temperature	Mean annual temperature
+861	season_temp	mean seasonal temperature	Mean seasonal temperature
+862	annual_precpt	mean annual precipitation	The average of all annual precipitation values known, or an estimated equivalent value derived by such methods as regional indexes or Isohyetal maps.
+863	season_precpt	mean seasonal precipitation	The average of all seasonal precipitation values known, or an estimated equivalent value derived by such methods as regional indexes or Isohyetal maps.
+864	link_class_info	link to classification information	Link to digitized soil maps or other soil classification information
+865	fao_class	soil_taxonomic/FAO classification	Soil classification from the FAO World Reference Database for Soil Resources. The list can be found at http://www.fao.org/nr/land/sols/soil/wrb-soil-maps/reference-groups
+866	local_class	soil_taxonomic/local classification	Soil classification based on local soil classification system
+867	local_class_meth	soil_taxonomic/local classification method	Reference or method used in determining the local soil classification
+868	soil_type	soil type	Soil series name or other lower-level classification
+869	soil_type_meth	soil type method	Reference or method used in determining soil series name or other lower-level classification
+870	slope_gradient	slope gradient	Commonly called 'slope'. The angle between ground surface and a horizontal line (in percent). This is the direction that overland water would flow. This measure is usually taken with a hand level meter or clinometer
+871	slope_aspect	slope aspect	The direction a slope faces. While looking down a slope use a compass to record the direction you are facing (direction or degrees); e.g., nw or 315 degrees. This measure provides an indication of sun and wind exposure that will influence soil temperature and evapotranspiration.
+872	profile_position	profile position	Cross-sectional position in the hillslope where sample was collected.sample area position in relation to surrounding areas
+873	drainage_class	drainage classification	Drainage classification from a standard system such as the USDA system
+874	texture	texture	The relative proportion of different grain sizes of mineral particles in a soil, as described using a standard system; express as % sand (50 um to 2 mm), silt (2 um to 50 um), and clay (<2 um) with textural name (e.g., silty clay loam) optional.
+875	texture_meth	texture method	Reference or method used in determining soil texture
+877	ph_meth	pH method	Reference or method used in determining ph
+879	tot_org_c_meth	total organic carbon method	Reference or method used in determining total organic carbon
+881	tot_nitro_content_meth	total nitrogen content method	Reference or method used in determining the total nitrogen
+882	microbial_biomass	microbial biomass	The part of the organic matter in the soil that constitutes living microorganisms smaller than 5-10 micrometer. If you keep this, you would need to have correction factors used for conversion to the final units
+883	microbial_biomass_meth	microbial biomass method	Reference or method used in determining microbial biomass
+884	link_addit_analys	links to additional analysis	Link to additional analysis results performed on the sample
+885	extreme_salinity	extreme_unusual_properties/salinity	Measured salinity
+886	salinity_meth	extreme_unusual_properties/salinity method	Reference or method used in determining salinity
+887	heavy_metals	extreme_unusual_properties/heavy metals	Heavy metals present and concentrationsany drug used by subject and the frequency of usage; can include multiple heavy metals and concentrations
+888	heavy_metals_meth	extreme_unusual_properties/heavy metals method	Reference or method used in determining heavy metals
+889	al_sat	extreme_unusual_properties/Al saturation	Aluminum saturation (esp. For tropical soils)
+890	al_sat_meth	extreme_unusual_properties/Al saturation method	Reference or method used in determining Al saturation
+894	biochem_oxygen_dem	biochemical oxygen demand	Amount of dissolved oxygen needed by aerobic biological organisms in a body of water to break down organic material present in a given water sample at certain temperature over a specific time period
+896	chem_oxygen_dem	chemical oxygen demand	A measure of the capacity of water to consume oxygen during the decomposition of organic matter and the oxidation of inorganic chemicals such as ammonia and nitrite
+897	efficiency_percent	efficiency percent	Percentage of volatile solids removed from the anaerobic digestor
+898	emulsions	emulsions	Amount or concentration of substances such as paints, adhesives, mayonnaise, hair colorants, emulsified oils, etc.; can include multiple emulsion types
+899	gaseous_substances	gaseous substances	Amount or concentration of substances such as hydrogen sulfide, carbon dioxide, methane, etc.; can include multiple substances
+900	indust_eff_percent	industrial effluent percent	Percentage of industrial effluents received by wastewater treatment plant
+901	inorg_particles	inorganic particles	Concentration of particles such as sand, grit, metal particles, ceramics, etc.; can include multiple particles
+904	org_particles	organic particles	Concentration of particles such as faeces, hairs, food, vomit, paper fibers, plant material, humus, etc.
+910	pre_treatment	pre-treatment	The process of pre-treatment removes materials that can be easily collected from the raw wastewater
+911	primary_treatment	primary treatment	The process to produce both a generally homogeneous liquid capable of being treated biologically and a sludge that can be separately treated or processed
+912	reactor_type	reactor type	Anaerobic digesters can be designed and engineered to operate using a number of different process configurations, as batch or continuous, mesophilic, high solid or low solid, and single stage or multistage
+918	secondary_treatment	secondary treatment	The process for substantially degrading the biological content of the sewage
+919	sewage_type	sewage type	Type of wastewater treatment plant as municipial or industrial
+920	sludge_retent_time	sludge retention time	The time activated sludge remains in reactor
+922	soluble_inorg_mat	soluble inorganic material	Concentration of substances such as ammonia, road-salt, sea-salt, cyanide, hydrogen sulfide, thiocyanates, thiosulfates, etc.
+923	soluble_org_mat	soluble organic material	Concentration of substances such as urea, fruit sugars, soluble proteins, drugs, pharmaceuticals, etc.
+926	tertiary_treatment	tertiary treatment	The process providing a final treatment stage to raise the effluent quality before it is discharged to the receiving environment
+928	tot_phosphate	total phosphate	Total amount or concentration of phosphate
+929	wastewater_type	wastewater type	The origin of wastewater such as human waste, rainfall, storm drains, etc.
+937	atmospheric_data	atmospheric data	Measurement of atmospheric data; can include multiple data
+939	bac_prod	bacterial production	Bacterial production in the water column measured by isotope uptake
+940	bac_resp	bacterial respiration	Measurement of bacterial respiration in the water column
+949	conduc	conductivity	Electrical conductivity of water
+955	diss_inorg_nitro	dissolved inorganic nitrogen	Concentration of dissolved inorganic nitrogen
+960	down_par	downward PAR	Visible waveband radiance and irradiance measurements in the water column
+961	fluor	fluorescence	Raw or converted fluorescence of water
+963	light_intensity	light intensity	Measurement of light intensity
+979	part_org_nitro	particulate organic nitrogen	Concentration of particulate organic nitrogen
+985	photon_flux	photon flux	Measurement of photon flux
+988	primary_prod	primary production	Measurement of primary production, generally measured as isotope uptake
+996	size_frac_low	size-fraction lower threshold	Refers to the mesh/pore size used to pre-filter/pre-sort the sample. Materials larger than the size threshold are excluded from the sample
+997	size_frac_up	size-fraction upper threshold	Refers to the mesh/pore size used to retain the sample. Materials smaller than the size threshold are excluded from the sample
+999	soluble_react_phosp	soluble reactive phosphorus	Concentration of soluble reactive phosphorus
+1002	suspend_part_matter	suspended particulate matter	Concentration of suspended particulate matter
+1006	tot_diss_nitro	total dissolved nitrogen	Total dissolved nitrogen concentration, reported as nitrogen, measured by: total dissolved nitrogen = NH4 + NO3NO2 + dissolved organic nitrogen
+1007	tot_inorg_nitro	total inorganic nitrogen	Total inorganic nitrogen content
+1009	tot_part_carb	total particulate carbon	Total particulate carbon content
