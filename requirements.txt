@@ -1,4 +1,6 @@
 pandas
+xlrd
+openpyxl
 pyyaml
 requests
 jupyter
