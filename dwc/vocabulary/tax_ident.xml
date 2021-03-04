@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/tax_ident/'
+  dc:description="The tax_ident Vocabulary is a recommended set of values to use for the tax_ident (MIXS:0000053) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium tax_ident Vocabulary (MIXS:0000053)"
+  dc:issued="2021-03-04"
+  dc:relation=""
+  xmlns="http://rs.gbif.org/thesaurus/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
+  <concept dc:identifier="16_s_r_rna_gene"
+    dc:URI='https://what.goes.here/MIXS:0000053/16_s_r_rna_gene'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="16S rRNA gene"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="multi_marker_approach"
+    dc:URI='https://what.goes.here/MIXS:0000053/multi_marker_approach'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="multi-marker approach"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="other"
+    dc:URI='https://what.goes.here/MIXS:0000053/other'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="other"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+</thesaurus>
+    

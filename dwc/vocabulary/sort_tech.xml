@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/sort_tech/'
+  dc:description="The sort_tech Vocabulary is a recommended set of values to use for the sort_tech (MIXS:0000075) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium sort_tech Vocabulary (MIXS:0000075)"
+  dc:issued="2021-03-04"
+  dc:relation=""
+  xmlns="http://rs.gbif.org/thesaurus/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
+  <concept dc:identifier="flow_cytometric_cell_sorting"
+    dc:URI='https://what.goes.here/MIXS:0000075/flow_cytometric_cell_sorting'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="flow cytometric cell sorting"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="microfluidics"
+    dc:URI='https://what.goes.here/MIXS:0000075/microfluidics'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="microfluidics"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="lazer-tweezing"
+    dc:URI='https://what.goes.here/MIXS:0000075/lazer-tweezing'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="lazer-tweezing"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="optical_manipulation"
+    dc:URI='https://what.goes.here/MIXS:0000075/optical_manipulation'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="optical manipulation"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="micromanipulation"
+    dc:URI='https://what.goes.here/MIXS:0000075/micromanipulation'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="micromanipulation"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="other"
+    dc:URI='https://what.goes.here/MIXS:0000075/other'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="other"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+</thesaurus>
+    

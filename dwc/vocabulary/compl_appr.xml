@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/compl_appr/'
+  dc:description="The compl_appr Vocabulary is a recommended set of values to use for the compl_appr (MIXS:0000071) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium compl_appr Vocabulary (MIXS:0000071)"
+  dc:issued="2021-03-04"
+  dc:relation=""
+  xmlns="http://rs.gbif.org/thesaurus/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
+  <concept dc:identifier="marker_gene"
+    dc:URI='https://what.goes.here/MIXS:0000071/marker_gene'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="marker gene"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="reference_based"
+    dc:URI='https://what.goes.here/MIXS:0000071/reference_based'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="reference based"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="other"
+    dc:URI='https://what.goes.here/MIXS:0000071/other'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="other"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+</thesaurus>
+    

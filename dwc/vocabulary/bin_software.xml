@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/bin_software/'
+  dc:description="The bin_software Vocabulary is a recommended set of values to use for the bin_software (MIXS:0000078) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium bin_software Vocabulary (MIXS:0000078)"
+  dc:issued="2021-03-04"
+  dc:relation=""
+  xmlns="http://rs.gbif.org/thesaurus/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
+  <concept dc:identifier="metabat"
+    dc:URI='https://what.goes.here/MIXS:0000078/metabat'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="metabat"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="maxbin"
+    dc:URI='https://what.goes.here/MIXS:0000078/maxbin'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="maxbin"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="concoct"
+    dc:URI='https://what.goes.here/MIXS:0000078/concoct'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="concoct"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="groupm"
+    dc:URI='https://what.goes.here/MIXS:0000078/groupm'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="groupm"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="esom"
+    dc:URI='https://what.goes.here/MIXS:0000078/esom'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="esom"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="metawatt"
+    dc:URI='https://what.goes.here/MIXS:0000078/metawatt'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="metawatt"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="combination"
+    dc:URI='https://what.goes.here/MIXS:0000078/combination'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="combination"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="other"
+    dc:URI='https://what.goes.here/MIXS:0000078/other'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="other"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+</thesaurus>
+    

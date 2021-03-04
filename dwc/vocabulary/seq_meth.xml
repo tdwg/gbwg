@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/seq_meth/'
+  dc:description="The seq_meth Vocabulary is a recommended set of values to use for the seq_meth (MIXS:0000050) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium seq_meth Vocabulary (MIXS:0000050)"
+  dc:issued="2021-03-04"
+  dc:relation=""
+  xmlns="http://rs.gbif.org/thesaurus/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
+  <concept dc:identifier="454_gs"
+    dc:URI='https://what.goes.here/MIXS:0000050/454_gs'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="454 GS"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="454_gs_20"
+    dc:URI='https://what.goes.here/MIXS:0000050/454_gs_20'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="454 GS 20"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="454_gs_flx"
+    dc:URI='https://what.goes.here/MIXS:0000050/454_gs_flx'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="454 GS FLX"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="454_gs_flx"
+    dc:URI='https://what.goes.here/MIXS:0000050/454_gs_flx'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="454 GS FLX+"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="454_gs_flx_titanium"
+    dc:URI='https://what.goes.here/MIXS:0000050/454_gs_flx_titanium'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="454 GS FLX Titanium"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="454_gs_junior"
+    dc:URI='https://what.goes.here/MIXS:0000050/454_gs_junior'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="454 GS Junior"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_310_genetic_analyzer"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_310_genetic_analyzer'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB 310 Genetic Analyzer"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_3130_genetic_analyzer"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_3130_genetic_analyzer'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB 3130 Genetic Analyzer"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_3130_x_l_genetic_analyzer"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_3130_x_l_genetic_analyzer'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB 3130xL Genetic Analyzer"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_3500_genetic_analyzer"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_3500_genetic_analyzer'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB 3500 Genetic Analyzer"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_3500_x_l_genetic_analyzer"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_3500_x_l_genetic_analyzer'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB 3500xL Genetic Analyzer"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_3730_genetic_analyzer"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_3730_genetic_analyzer'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB 3730 Genetic Analyzer"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_3730_x_l_genetic_analyzer"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_3730_x_l_genetic_analyzer'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB 3730xL Genetic Analyzer"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_5500_genetic_analyzer"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_5500_genetic_analyzer'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB 5500 Genetic Analyzer"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_5500_xl_genetic_analyzer"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_5500_xl_genetic_analyzer'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB 5500xl Genetic Analyzer"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_5500_xl_w_genetic_analysis_system"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_5500_xl_w_genetic_analysis_system'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB 5500xl-W Genetic Analysis System"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_so_li_d_system"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_so_li_d_system'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB SOLiD System"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_so_li_d_system_2_0"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_so_li_d_system_2_0'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB SOLiD System 2.0"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_so_li_d_system_3_0"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_so_li_d_system_3_0'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB SOLiD System 3.0"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_so_li_d_3_plus_system"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_so_li_d_3_plus_system'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB SOLiD 3 Plus System"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_so_li_d_4_system"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_so_li_d_4_system'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB SOLiD 4 System"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_so_li_d_4_hq_system"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_so_li_d_4_hq_system'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB SOLiD 4hq System"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ab_so_li_d_pi_system"
+    dc:URI='https://what.goes.here/MIXS:0000050/ab_so_li_d_pi_system'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="AB SOLiD PI System"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="BGISEQ-500"
+    dc:URI='https://what.goes.here/MIXS:0000050/BGISEQ-500'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="BGISEQ-500"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="GridION"
+    dc:URI='https://what.goes.here/MIXS:0000050/GridION'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="GridION"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_genome_analyzer"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_genome_analyzer'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina Genome Analyzer"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_genome_analyzer_ii"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_genome_analyzer_ii'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina Genome Analyzer II"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_genome_analyzer_i_ix"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_genome_analyzer_i_ix'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina Genome Analyzer IIx"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_hi_seq_1000"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_hi_seq_1000'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina HiSeq 1000"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_hi_seq_1500"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_hi_seq_1500'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina HiSeq 1500"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_hi_seq_2000"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_hi_seq_2000'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina HiSeq 2000"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_hi_seq_2500"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_hi_seq_2500'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina HiSeq 2500"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_hi_seq_3000"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_hi_seq_3000'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina HiSeq 3000"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_hi_seq_4000"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_hi_seq_4000'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina HiSeq 4000"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_hi_scan_sq"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_hi_scan_sq'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina HiScanSQ"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_mi_seq"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_mi_seq'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina MiSeq"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_hi_seq_x_five"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_hi_seq_x_five'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina HiSeq X Five"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_hi_seq_x_ten"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_hi_seq_x_ten'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina HiSeq X Ten"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_next_seq_500"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_next_seq_500'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina NextSeq 500"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="illumina_next_seq_550"
+    dc:URI='https://what.goes.here/MIXS:0000050/illumina_next_seq_550'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Illumina NextSeq 550"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ion_torrent_pgm"
+    dc:URI='https://what.goes.here/MIXS:0000050/ion_torrent_pgm'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Ion Torrent PGM"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ion_torrent_proton"
+    dc:URI='https://what.goes.here/MIXS:0000050/ion_torrent_proton'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Ion Torrent Proton"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ion_torrent_s_5"
+    dc:URI='https://what.goes.here/MIXS:0000050/ion_torrent_s_5'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Ion Torrent S5"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="ion_torrent_s_5_xl"
+    dc:URI='https://what.goes.here/MIXS:0000050/ion_torrent_s_5_xl'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Ion Torrent S5 XL"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="MinION"
+    dc:URI='https://what.goes.here/MIXS:0000050/MinION'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="MinION"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="pac_bio_rs"
+    dc:URI='https://what.goes.here/MIXS:0000050/pac_bio_rs'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="PacBio RS"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="pac_bio_rs_ii"
+    dc:URI='https://what.goes.here/MIXS:0000050/pac_bio_rs_ii'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="PacBio RS II"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="PromethION"
+    dc:URI='https://what.goes.here/MIXS:0000050/PromethION'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="PromethION"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="Sequel"
+    dc:URI='https://what.goes.here/MIXS:0000050/Sequel'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Sequel"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+</thesaurus>
+    

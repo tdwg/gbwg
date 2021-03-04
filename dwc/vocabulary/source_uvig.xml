@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/source_uvig/'
+  dc:description="The source_uvig Vocabulary is a recommended set of values to use for the source_uvig (MIXS:0000035) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium source_uvig Vocabulary (MIXS:0000035)"
+  dc:issued="2021-03-04"
+  dc:relation=""
+  xmlns="http://rs.gbif.org/thesaurus/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
+  <concept dc:identifier="metagenome_not_viral_targeted"
+    dc:URI='https://what.goes.here/MIXS:0000035/metagenome_not_viral_targeted'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="metagenome (not viral targeted)"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="viral_fraction_metagenome_virome"
+    dc:URI='https://what.goes.here/MIXS:0000035/viral_fraction_metagenome_virome'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="viral fraction metagenome (virome)"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="sequence_targeted_metagenome"
+    dc:URI='https://what.goes.here/MIXS:0000035/sequence_targeted_metagenome'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="sequence-targeted metagenome"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="metatranscriptome_not_viral_targeted"
+    dc:URI='https://what.goes.here/MIXS:0000035/metatranscriptome_not_viral_targeted'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="metatranscriptome (not viral targeted)"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="viral_fraction_rna_metagenome_rna_virome"
+    dc:URI='https://what.goes.here/MIXS:0000035/viral_fraction_rna_metagenome_rna_virome'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="viral fraction RNA metagenome (RNA virome)"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="sequence_targeted_rna_metagenome"
+    dc:URI='https://what.goes.here/MIXS:0000035/sequence_targeted_rna_metagenome'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="sequence-targeted RNA metagenome"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="microbial_single_amplified_genome_sag"
+    dc:URI='https://what.goes.here/MIXS:0000035/microbial_single_amplified_genome_sag'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="microbial single amplified genome (SAG)"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="viral_single_amplified_genome_v_sag"
+    dc:URI='https://what.goes.here/MIXS:0000035/viral_single_amplified_genome_v_sag'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="viral single amplified genome (vSAG)"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="isolate_microbial_genome"
+    dc:URI='https://what.goes.here/MIXS:0000035/isolate_microbial_genome'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="isolate microbial genome"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="other"
+    dc:URI='https://what.goes.here/MIXS:0000035/other'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="other"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+</thesaurus>
+    
