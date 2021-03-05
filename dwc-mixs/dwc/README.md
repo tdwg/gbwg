@@ -10,7 +10,7 @@ The initial draft was prepared as part of the "Publishing DNA-derived data throu
 
 ### Source: MIxS
 
-The extension based primarily on MIxS and includes all terms from MIxS v6 core, with the exception the following considered redundant to terms in DwC:Occurrence and DwC:Event
+The extension based primarily on MIxS and includes all terms from MIxS v6 core, with the exception the following considered redundant to terms in [DwC:Location](https://dwc.tdwg.org/terms/#location).
 
 - `lat_lon` 
 - `depth`

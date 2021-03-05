@@ -4,7 +4,7 @@
 To build semantically precise and sustained interoperability between TDWG’s Darwin Core ([DwC](https://dwc.tdwg.org)) standard, and the Minimum Information about any (x) Sequence ([MIxS](https://gensc.org/mixs/)) checklist from the Genomic Standards Consortium (GSC).
 
 ## About
-The Task Group has been convened to consolidate previous work that aimed to prevent siloed (meta)data standards development in the omics and broader biodiversity communities. The TG will leverage procedural and technical advancements in TDWG and the GSC to develop a sustainably interoperable MIxS-driven extension of DwC. The result will ensure that data produced in either MIxS- or DwC-compliant form can be automatically brokered between user communities, bringing the communities closer together.
+The Task Group has been convened to consolidate previous work that aimed to prevent siloed (meta)data standards development in the omics and broader biodiversity communities. The TG will leverage procedural and technical advancements in TDWG and the GSC to develop a sustainably interoperable MIxS-driven [extension of DwC](dwc/). The result will ensure that data produced in either MIxS- or DwC-compliant form can be automatically brokered between user communities, bringing the communities closer together.
 
 Please see [here](https://www.tdwg.org/community/gbwg/MIxS/) for more information and background.
 
