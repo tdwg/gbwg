@@ -42,6 +42,7 @@ And the following related terms
 ### Souce: MIQE
 
 These terms was included to support data derived from qPCR and ddPCR assays.
+See https://doi.org/10.1373/clinchem.2008.112797
 
 - `annealingTemp`
 - `annealingTempUnit`
