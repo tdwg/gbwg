@@ -1,6 +1,6 @@
 # A Darwin Core extension for DNA derived data
 
-The draft extension is [here](/gbwg/blob/main/dwc-mixs/dwc/extension/dna_derived_data.xml) ([human readable version here](https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/extension/dna_derived_data.xml)).
+The draft extension is [here](extension/dna_derived_data.xml) ([human readable version here](https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/extension/dna_derived_data.xml)).
 
 The initial draft was prepared as part of the "Publishing DNA-derived data through biodiversity data platforms" (https://doi.org/10.35035/doc-vf1a-nr22) 
 
