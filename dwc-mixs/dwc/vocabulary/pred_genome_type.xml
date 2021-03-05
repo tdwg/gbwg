@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="DNA"
-    dc:URI='https://what.goes.here/MIXS:0000082/DNA'
+    dc:URI='https://to.be.decided/MIXS:0000082/DNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="dsDNA"
-    dc:URI='https://what.goes.here/MIXS:0000082/dsDNA'
+    dc:URI='https://to.be.decided/MIXS:0000082/dsDNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ssDNA"
-    dc:URI='https://what.goes.here/MIXS:0000082/ssDNA'
+    dc:URI='https://to.be.decided/MIXS:0000082/ssDNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="RNA"
-    dc:URI='https://what.goes.here/MIXS:0000082/RNA'
+    dc:URI='https://to.be.decided/MIXS:0000082/RNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="dsRNA"
-    dc:URI='https://what.goes.here/MIXS:0000082/dsRNA'
+    dc:URI='https://to.be.decided/MIXS:0000082/dsRNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -65,7 +65,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ssRNA"
-    dc:URI='https://what.goes.here/MIXS:0000082/ssRNA'
+    dc:URI='https://to.be.decided/MIXS:0000082/ssRNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -76,7 +76,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ss_rna"
-    dc:URI='https://what.goes.here/MIXS:0000082/ss_rna'
+    dc:URI='https://to.be.decided/MIXS:0000082/ss_rna'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -87,7 +87,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ss_rna"
-    dc:URI='https://what.goes.here/MIXS:0000082/ss_rna'
+    dc:URI='https://to.be.decided/MIXS:0000082/ss_rna'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -98,7 +98,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="mixed"
-    dc:URI='https://what.goes.here/MIXS:0000082/mixed'
+    dc:URI='https://to.be.decided/MIXS:0000082/mixed'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -109,7 +109,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="uncharacterized"
-    dc:URI='https://what.goes.here/MIXS:0000082/uncharacterized'
+    dc:URI='https://to.be.decided/MIXS:0000082/uncharacterized'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

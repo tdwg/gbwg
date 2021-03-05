@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="bwa"
-    dc:URI='https://what.goes.here/MIXS:0000080/bwa'
+    dc:URI='https://to.be.decided/MIXS:0000080/bwa'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="bbmap"
-    dc:URI='https://what.goes.here/MIXS:0000080/bbmap'
+    dc:URI='https://to.be.decided/MIXS:0000080/bbmap'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="bowtie"
-    dc:URI='https://what.goes.here/MIXS:0000080/bowtie'
+    dc:URI='https://to.be.decided/MIXS:0000080/bowtie'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="other"
-    dc:URI='https://what.goes.here/MIXS:0000080/other'
+    dc:URI='https://to.be.decided/MIXS:0000080/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="homology_search"
-    dc:URI='https://what.goes.here/MIXS:0000077/homology_search'
+    dc:URI='https://to.be.decided/MIXS:0000077/homology_search'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="kmer"
-    dc:URI='https://what.goes.here/MIXS:0000077/kmer'
+    dc:URI='https://to.be.decided/MIXS:0000077/kmer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="coverage"
-    dc:URI='https://what.goes.here/MIXS:0000077/coverage'
+    dc:URI='https://to.be.decided/MIXS:0000077/coverage'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="codon_usage"
-    dc:URI='https://what.goes.here/MIXS:0000077/codon_usage'
+    dc:URI='https://to.be.decided/MIXS:0000077/codon_usage'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="combination"
-    dc:URI='https://what.goes.here/MIXS:0000077/combination'
+    dc:URI='https://to.be.decided/MIXS:0000077/combination'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

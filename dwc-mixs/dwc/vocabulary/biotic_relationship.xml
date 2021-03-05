@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="free_living"
-    dc:URI='https://what.goes.here/MIXS:0000028/free_living'
+    dc:URI='https://to.be.decided/MIXS:0000028/free_living'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="parasitism"
-    dc:URI='https://what.goes.here/MIXS:0000028/parasitism'
+    dc:URI='https://to.be.decided/MIXS:0000028/parasitism'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="commensalism"
-    dc:URI='https://what.goes.here/MIXS:0000028/commensalism'
+    dc:URI='https://to.be.decided/MIXS:0000028/commensalism'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="symbiotic"
-    dc:URI='https://what.goes.here/MIXS:0000028/symbiotic'
+    dc:URI='https://to.be.decided/MIXS:0000028/symbiotic'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="mutualism"
-    dc:URI='https://what.goes.here/MIXS:0000028/mutualism'
+    dc:URI='https://to.be.decided/MIXS:0000028/mutualism'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

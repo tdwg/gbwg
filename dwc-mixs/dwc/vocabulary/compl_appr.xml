@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="marker_gene"
-    dc:URI='https://what.goes.here/MIXS:0000071/marker_gene'
+    dc:URI='https://to.be.decided/MIXS:0000071/marker_gene'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="reference_based"
-    dc:URI='https://what.goes.here/MIXS:0000071/reference_based'
+    dc:URI='https://to.be.decided/MIXS:0000071/reference_based'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="other"
-    dc:URI='https://what.goes.here/MIXS:0000071/other'
+    dc:URI='https://to.be.decided/MIXS:0000071/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

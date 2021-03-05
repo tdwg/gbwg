@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="air"
-    dc:URI='https://what.goes.here/MIXS:0000019/air'
+    dc:URI='https://to.be.decided/MIXS:0000019/air'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="built_environment"
-    dc:URI='https://what.goes.here/MIXS:0000019/built_environment'
+    dc:URI='https://to.be.decided/MIXS:0000019/built_environment'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="host-associated"
-    dc:URI='https://what.goes.here/MIXS:0000019/host-associated'
+    dc:URI='https://to.be.decided/MIXS:0000019/host-associated'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="human-associated"
-    dc:URI='https://what.goes.here/MIXS:0000019/human-associated'
+    dc:URI='https://to.be.decided/MIXS:0000019/human-associated'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="human-skin"
-    dc:URI='https://what.goes.here/MIXS:0000019/human-skin'
+    dc:URI='https://to.be.decided/MIXS:0000019/human-skin'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -65,7 +65,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="human-oral"
-    dc:URI='https://what.goes.here/MIXS:0000019/human-oral'
+    dc:URI='https://to.be.decided/MIXS:0000019/human-oral'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -76,7 +76,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="human-gut"
-    dc:URI='https://what.goes.here/MIXS:0000019/human-gut'
+    dc:URI='https://to.be.decided/MIXS:0000019/human-gut'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -87,7 +87,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="human-vaginal"
-    dc:URI='https://what.goes.here/MIXS:0000019/human-vaginal'
+    dc:URI='https://to.be.decided/MIXS:0000019/human-vaginal'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -98,7 +98,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="hydrocarbon_resources_cores"
-    dc:URI='https://what.goes.here/MIXS:0000019/hydrocarbon_resources_cores'
+    dc:URI='https://to.be.decided/MIXS:0000019/hydrocarbon_resources_cores'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -109,7 +109,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="hydrocarbon_resources_fluids_swabs"
-    dc:URI='https://what.goes.here/MIXS:0000019/hydrocarbon_resources_fluids_swabs'
+    dc:URI='https://to.be.decided/MIXS:0000019/hydrocarbon_resources_fluids_swabs'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -120,7 +120,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="microbial_mat_biofilm"
-    dc:URI='https://what.goes.here/MIXS:0000019/microbial_mat_biofilm'
+    dc:URI='https://to.be.decided/MIXS:0000019/microbial_mat_biofilm'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -131,7 +131,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="misc_environment"
-    dc:URI='https://what.goes.here/MIXS:0000019/misc_environment'
+    dc:URI='https://to.be.decided/MIXS:0000019/misc_environment'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -142,7 +142,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="plant-associated"
-    dc:URI='https://what.goes.here/MIXS:0000019/plant-associated'
+    dc:URI='https://to.be.decided/MIXS:0000019/plant-associated'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -153,7 +153,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="sediment"
-    dc:URI='https://what.goes.here/MIXS:0000019/sediment'
+    dc:URI='https://to.be.decided/MIXS:0000019/sediment'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -164,7 +164,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="soil"
-    dc:URI='https://what.goes.here/MIXS:0000019/soil'
+    dc:URI='https://to.be.decided/MIXS:0000019/soil'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -175,7 +175,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="wastewater/sludge"
-    dc:URI='https://what.goes.here/MIXS:0000019/wastewater/sludge'
+    dc:URI='https://to.be.decided/MIXS:0000019/wastewater/sludge'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -186,7 +186,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="water"
-    dc:URI='https://what.goes.here/MIXS:0000019/water'
+    dc:URI='https://to.be.decided/MIXS:0000019/water'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="16_s_r_rna_gene"
-    dc:URI='https://what.goes.here/MIXS:0000053/16_s_r_rna_gene'
+    dc:URI='https://to.be.decided/MIXS:0000053/16_s_r_rna_gene'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="multi_marker_approach"
-    dc:URI='https://what.goes.here/MIXS:0000053/multi_marker_approach'
+    dc:URI='https://to.be.decided/MIXS:0000053/multi_marker_approach'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="other"
-    dc:URI='https://what.goes.here/MIXS:0000053/other'
+    dc:URI='https://to.be.decided/MIXS:0000053/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

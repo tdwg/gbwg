@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="segmented"
-    dc:URI='https://what.goes.here/MIXS:0000083/segmented'
+    dc:URI='https://to.be.decided/MIXS:0000083/segmented'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="non-segmented"
-    dc:URI='https://what.goes.here/MIXS:0000083/non-segmented'
+    dc:URI='https://to.be.decided/MIXS:0000083/non-segmented'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="undetermined"
-    dc:URI='https://what.goes.here/MIXS:0000083/undetermined'
+    dc:URI='https://to.be.decided/MIXS:0000083/undetermined'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

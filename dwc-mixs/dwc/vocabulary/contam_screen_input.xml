@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="reads"
-    dc:URI='https://what.goes.here/MIXS:0000005/reads'
+    dc:URI='https://to.be.decided/MIXS:0000005/reads'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="contigs"
-    dc:URI='https://what.goes.here/MIXS:0000005/contigs'
+    dc:URI='https://to.be.decided/MIXS:0000005/contigs'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="pcr_based"
-    dc:URI='https://what.goes.here/MIXS:0000055/pcr_based'
+    dc:URI='https://to.be.decided/MIXS:0000055/pcr_based'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="mda_based"
-    dc:URI='https://what.goes.here/MIXS:0000055/mda_based'
+    dc:URI='https://to.be.decided/MIXS:0000055/mda_based'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
