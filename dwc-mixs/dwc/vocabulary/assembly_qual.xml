@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/assembly_qual/'
+  dc:description="The assembly_qual Vocabulary is a recommended set of values to use for the assembly_qual (MIXS:0000056) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium assembly_qual Vocabulary (MIXS:0000056)"
+  dc:issued="2021-03-04"
+  dc:relation=""
+  xmlns="http://rs.gbif.org/thesaurus/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
+  <concept dc:identifier="finished_genome"
+    dc:URI='https://to.be.decided/MIXS:0000056/finished_genome'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Finished genome"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="high_quality_draft_genome"
+    dc:URI='https://to.be.decided/MIXS:0000056/high_quality_draft_genome'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="High-quality draft genome"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="medium_quality_draft_genome"
+    dc:URI='https://to.be.decided/MIXS:0000056/medium_quality_draft_genome'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Medium-quality draft genome"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="low_quality_draft_genome"
+    dc:URI='https://to.be.decided/MIXS:0000056/low_quality_draft_genome'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Low-quality draft genome"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="genome_fragment_s"
+    dc:URI='https://to.be.decided/MIXS:0000056/genome_fragment_s'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="Genome fragment(s)"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+</thesaurus>
+    

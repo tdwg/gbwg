@@ -1,0 +1,155 @@
+/* COLORs
+#A5 BB0F - yellowish green
+#2d 9cdc - cloudera blue
+#5d b235 - gbif green
+#46 a912 - gbif lighter green
+*/
+
+/* @group HTML tags, reset */
+
+html {
+	color: #333;
+	font-family: Helvetica, Arial, Geneva, sans-serif;
+	background-color: #ffffff;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svg='http://www.w3.org/2000/svg' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:ns1='http://sozi.baierouge.fr' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:cc='http://web.resource.org/cc/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns%23' version='1.1' viewBox='0.0 0.0 100.0 132.0' fill='none' stroke='none' stroke-linecap='square' stroke-miterlimit='10' width='200px' height='200px' opacity='0.03' %3E%3CclipPath id='p.0' %3E%3Cpath d='m0 0l100.0 0l0 132.0l-100.0 0l0 -132.0z' clip-rule='nonzero' /%3E%3C/clipPath %3E%3Cg clip-path='url(%23p.0)' %3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m0 0l100.03937 0l0 132.17061l-100.03937 0z' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m83.92169 10.617837c-6.6920853 2.469635 -37.532764 4.0089035 -40.152542 14.817813c-2.6197777 10.80891 29.787468 39.1346 24.433876 50.03565c-5.3535957 10.901047 -50.68566 6.4988174 -56.555443 15.370621c-5.8697824 8.871803 17.780624 31.550179 21.336746 37.860214' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='4.0' stroke-linejoin='round' stroke-linecap='butt' d='m83.92169 10.617837c-6.6920853 2.469635 -37.532764 4.0089035 -40.152542 14.817813c-2.6197777 10.80891 29.787468 39.1346 24.433876 50.03565c-5.3535957 10.901047 -50.68566 6.4988174 -56.555443 15.370621c-5.8697824 8.871803 17.780624 31.550179 21.336746 37.860214' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m71.320045 6.6069613c2.4036255 5.0403337 22.119164 20.588829 14.421776 30.242004c-7.6973953 9.653172 -54.745483 16.332684 -60.606133 27.677029c-5.860651 11.344345 28.605078 30.480545 25.442225 40.389053c-3.1628532 9.908501 -37.016113 15.884972 -44.41934 19.061966' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='4.0' stroke-linejoin='round' stroke-linecap='butt' d='m71.320045 6.6069613c2.4036255 5.0403337 22.119164 20.588829 14.421776 30.242004c-7.6973953 9.653172 -54.745483 16.332684 -60.606133 27.677029c-5.860651 11.344345 28.605078 30.480545 25.442225 40.389053c-3.1628532 9.908501 -37.016113 15.884972 -44.41934 19.061966' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m55.251453 17.59144l30.501865 6.9291306' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m55.251453 17.59144l30.501865 6.9291306' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m44.730053 22.83704l43.362164 9.0364895' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m44.730053 22.83704l43.362164 9.0364895' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m48.963867 37.30742l26.081818 5.890503' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m48.963867 37.30742l26.081818 5.890503' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m42.591118 54.416157l22.590523 8.237251' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m42.591118 54.416157l22.590523 8.237251' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m33.717316 58.79975l34.522743 13.425713' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m33.717316 58.79975l34.522743 13.425713' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m24.585785 64.757706l38.885517 14.814209' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m24.585785 64.757706l38.885517 14.814209' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m26.875486 72.59095l22.382914 9.505486' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m26.875486 72.59095l22.382914 9.505486' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m13.997762 88.95931l30.417027 3.996376' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m13.997762 88.95931l30.417027 3.996376' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m10.768808 96.21006l39.249954 6.1173706' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m10.768808 96.21006l39.249954 6.1173706' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m14.153772 103.57165l33.385704 4.842087' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m14.153772 103.57165l33.385704 4.842087' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m18.976885 111.49446l21.526827 2.2252426' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m18.976885 111.49446l21.526827 2.2252426' fill-rule='nonzero' /%3E%3Cpath fill='%23000000' fill-opacity='0.0' d='m45.578903 29.94583l39.442177 8.39414' fill-rule='nonzero' /%3E%3Cpath stroke='%23104990' stroke-width='2.0' stroke-linejoin='round' stroke-linecap='butt' d='m45.578903 29.94583l39.442177 8.39414' fill-rule='nonzero' /%3E%3C/g %3E%3C/svg%0A%3E");}
+body {
+	margin: 3em auto;
+	padding: 0 3em;
+}
+
+body.index {
+	max-width: 40em;
+	padding: 0;
+}
+
+a {
+	text-decoration:none;
+	color: rgb(0, 125, 36);
+}
+a:hover {
+	text-decoration: underline;
+	color: rgb(0, 84, 24);
+}
+
+header img {
+	display: block;
+}
+
+h1, h2 {margin:15px 0 10px 0;}
+h3, h4, h5, h6 {margin:5px 0 10px 0;}
+h1 {font-size:260%; font-weight:normal; letter-spacing:-1px;}
+h2 {font-size:160%; font-weight:normal;}
+h3 {font-size:140%; font-weight:normal;}
+h4, h5 {font-size:100%;}
+
+p, table, ul, ol, dl, fieldset {margin:10px 0;}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+	font-size:100%;
+	max-width: 100%;
+}
+th {text-align:left; font-weight:bold;}
+th, td {padding:3px 7px;}
+
+ul {
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+li {
+	margin-bottom: 0.5em;
+}
+ol {list-style-type:decimal;}
+
+dt {font-weight:bold;}
+dd {margin-left:30px;}
+fieldset {position:relative; padding:10px;}
+legend {position:absolute; top:-1em; margin:0; padding:5px 10px; font-size:100%; font-weight:bold;}
+
+/* @end */
+
+
+/* @group LAYOUT */
+header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 3em auto;
+}
+header * {
+	padding: 0 0.25em;
+}
+#header {
+	text-align: center;
+}
+
+/* @end */
+
+/* @group TABLES */
+table.nice{
+	border-spacing: 2px 2px;
+	border-collapse: separate;
+}
+table.nice td{
+	padding: 1px 4px;
+}
+table.nice a {
+	border-style: none;
+}
+table.nice a:hover {
+	text-decoration: underline;
+}
+table.nice tr.line {
+	height: 2em;
+}
+
+table.grey tr{
+	background-color: #f6f6f6;
+}
+table.grey tr.line {
+	background-color: transparent;
+}
+
+.smaller {font-size:85%;color:#888;}
+
+/* @end */
+
+table.definition {
+	border-spacing: 2px 10px;
+	border-collapse: separate;
+}
+table.definition th {
+	text-align: left;
+	vertical-align: top;
+	background-color: #f1f1f1;
+}
+table.definition td {
+	border-style: none;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	background-color: #ffffff;
+}
+
+.examples{
+	padding-top: 10px;
+	word-wrap: anywhere;
+}
+.vocabulary, .vocabulary a{
+	color: black;
+	padding-top: 10px;
+}
+.technical{
+	padding-top: 10px;
+	font-size: smaller;
+}
+.technical table{
+	margin: 0;
+	padding: 0;
+}
+.technical table th, .technical td{
+	color: #999;
+	background-color: white;
+	padding:0px 10px 0px 0px;
+}
