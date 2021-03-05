@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
 <thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/env_package/'
   dc:description="The env_package Vocabulary is a recommended set of values to use for the env_package (MIXS:0000019) term in the DNA Derived Data extension."
   dc:title="Genomic Standards Consortium env_package Vocabulary (MIXS:0000019)"

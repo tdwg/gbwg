@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
-<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/tax_ident/'
-  dc:description="The tax_ident Vocabulary is a recommended set of values to use for the tax_ident (MIXS:0000053) term in the DNA Derived Data extension."
-  dc:title="Genomic Standards Consortium tax_ident Vocabulary (MIXS:0000053)"
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/compl_appr/'
+  dc:description="The compl_appr Vocabulary is a recommended set of values to use for the compl_appr (MIXS:0000071) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium compl_appr Vocabulary (MIXS:0000071)"
   dc:issued="2021-03-04"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
-  <concept dc:identifier="16_s_r_rna_gene"
-    dc:URI='https://what.goes.here/MIXS:0000053/16_s_r_rna_gene'
+  <concept dc:identifier="marker_gene"
+    dc:URI='https://what.goes.here/MIXS:0000071/marker_gene'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="16S rRNA gene"
+        dc:title="marker gene"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="multi_marker_approach"
-    dc:URI='https://what.goes.here/MIXS:0000053/multi_marker_approach'
+  <concept dc:identifier="reference_based"
+    dc:URI='https://what.goes.here/MIXS:0000071/reference_based'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="multi-marker approach"
+        dc:title="reference based"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
   <concept dc:identifier="other"
-    dc:URI='https://what.goes.here/MIXS:0000053/other'
+    dc:URI='https://what.goes.here/MIXS:0000071/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

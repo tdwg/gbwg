@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
-<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/pred_genome_struc/'
-  dc:description="The pred_genome_struc Vocabulary is a recommended set of values to use for the pred_genome_struc (MIXS:0000083) term in the DNA Derived Data extension."
-  dc:title="Genomic Standards Consortium pred_genome_struc Vocabulary (MIXS:0000083)"
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/tax_ident/'
+  dc:description="The tax_ident Vocabulary is a recommended set of values to use for the tax_ident (MIXS:0000053) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium tax_ident Vocabulary (MIXS:0000053)"
   dc:issued="2021-03-04"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
-  <concept dc:identifier="segmented"
-    dc:URI='https://what.goes.here/MIXS:0000083/segmented'
+  <concept dc:identifier="16_s_r_rna_gene"
+    dc:URI='https://what.goes.here/MIXS:0000053/16_s_r_rna_gene'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="segmented"
+        dc:title="16S rRNA gene"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="non-segmented"
-    dc:URI='https://what.goes.here/MIXS:0000083/non-segmented'
+  <concept dc:identifier="multi_marker_approach"
+    dc:URI='https://what.goes.here/MIXS:0000053/multi_marker_approach'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="non-segmented"
+        dc:title="multi-marker approach"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="undetermined"
-    dc:URI='https://what.goes.here/MIXS:0000083/undetermined'
+  <concept dc:identifier="other"
+    dc:URI='https://what.goes.here/MIXS:0000053/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="undetermined"
+        dc:title="other"
         xml:lang="en"/>
     </preferred>
     <alternative>

@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
-<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/host_pred_appr/'
-  dc:description="The host_pred_appr Vocabulary is a recommended set of values to use for the host_pred_appr (MIXS:0000088) term in the DNA Derived Data extension."
-  dc:title="Genomic Standards Consortium host_pred_appr Vocabulary (MIXS:0000088)"
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/rel_to_oxygen/'
+  dc:description="The rel_to_oxygen Vocabulary is a recommended set of values to use for the rel_to_oxygen (MIXS:0000015) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium rel_to_oxygen Vocabulary (MIXS:0000015)"
   dc:issued="2021-03-04"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
-  <concept dc:identifier="provirus"
-    dc:URI='https://what.goes.here/MIXS:0000088/provirus'
+  <concept dc:identifier="aerobe"
+    dc:URI='https://what.goes.here/MIXS:0000015/aerobe'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="provirus"
+        dc:title="aerobe"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="host_sequence_similarity"
-    dc:URI='https://what.goes.here/MIXS:0000088/host_sequence_similarity'
+  <concept dc:identifier="anaerobe"
+    dc:URI='https://what.goes.here/MIXS:0000015/anaerobe'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="host sequence similarity"
+        dc:title="anaerobe"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="crispr_spacer_match"
-    dc:URI='https://what.goes.here/MIXS:0000088/crispr_spacer_match'
+  <concept dc:identifier="facultative"
+    dc:URI='https://what.goes.here/MIXS:0000015/facultative'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="CRISPR spacer match"
+        dc:title="facultative"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="kmer_similarity"
-    dc:URI='https://what.goes.here/MIXS:0000088/kmer_similarity'
+  <concept dc:identifier="microaerophilic"
+    dc:URI='https://what.goes.here/MIXS:0000015/microaerophilic'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="kmer similarity"
+        dc:title="microaerophilic"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="co-occurrence"
-    dc:URI='https://what.goes.here/MIXS:0000088/co-occurrence'
+  <concept dc:identifier="microanaerobe"
+    dc:URI='https://what.goes.here/MIXS:0000015/microanaerobe'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="co-occurrence"
+        dc:title="microanaerobe"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="combination"
-    dc:URI='https://what.goes.here/MIXS:0000088/combination'
+  <concept dc:identifier="obligate_aerobe"
+    dc:URI='https://what.goes.here/MIXS:0000015/obligate_aerobe'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="combination"
+        dc:title="obligate aerobe"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="other"
-    dc:URI='https://what.goes.here/MIXS:0000088/other'
+  <concept dc:identifier="obligate_anaerobe"
+    dc:URI='https://what.goes.here/MIXS:0000015/obligate_anaerobe'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="other"
+        dc:title="obligate anaerobe"
         xml:lang="en"/>
     </preferred>
     <alternative>

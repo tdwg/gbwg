@@ -1,130 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
-<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/health_disease_stat/'
-  dc:description="The health_disease_stat Vocabulary is a recommended set of values to use for the health_disease_stat (MIXS:0000031) term in the DNA Derived Data extension."
-  dc:title="Genomic Standards Consortium health_disease_stat Vocabulary (MIXS:0000031)"
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/pred_genome_type/'
+  dc:description="The pred_genome_type Vocabulary is a recommended set of values to use for the pred_genome_type (MIXS:0000082) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium pred_genome_type Vocabulary (MIXS:0000082)"
   dc:issued="2021-03-04"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
-  <concept dc:identifier="healthy"
-    dc:URI='https://what.goes.here/MIXS:0000031/healthy'
+  <concept dc:identifier="DNA"
+    dc:URI='https://what.goes.here/MIXS:0000082/DNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="healthy"
+        dc:title="DNA"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="diseased"
-    dc:URI='https://what.goes.here/MIXS:0000031/diseased'
+  <concept dc:identifier="dsDNA"
+    dc:URI='https://what.goes.here/MIXS:0000082/dsDNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="diseased"
+        dc:title="dsDNA"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="dead"
-    dc:URI='https://what.goes.here/MIXS:0000031/dead'
+  <concept dc:identifier="ssDNA"
+    dc:URI='https://what.goes.here/MIXS:0000082/ssDNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="dead"
+        dc:title="ssDNA"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="disease-free"
-    dc:URI='https://what.goes.here/MIXS:0000031/disease-free'
+  <concept dc:identifier="RNA"
+    dc:URI='https://what.goes.here/MIXS:0000082/RNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="disease-free"
+        dc:title="RNA"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="undetermined"
-    dc:URI='https://what.goes.here/MIXS:0000031/undetermined'
+  <concept dc:identifier="dsRNA"
+    dc:URI='https://what.goes.here/MIXS:0000082/dsRNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="undetermined"
+        dc:title="dsRNA"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="recovering"
-    dc:URI='https://what.goes.here/MIXS:0000031/recovering'
+  <concept dc:identifier="ssRNA"
+    dc:URI='https://what.goes.here/MIXS:0000082/ssRNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="recovering"
+        dc:title="ssRNA"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="resolving"
-    dc:URI='https://what.goes.here/MIXS:0000031/resolving'
+  <concept dc:identifier="ss_rna"
+    dc:URI='https://what.goes.here/MIXS:0000082/ss_rna'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="resolving"
+        dc:title="ssRNA (+)"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="pre_existing_condition"
-    dc:URI='https://what.goes.here/MIXS:0000031/pre_existing_condition'
+  <concept dc:identifier="ss_rna"
+    dc:URI='https://what.goes.here/MIXS:0000082/ss_rna'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="pre-existing condition"
+        dc:title="ssRNA (-)"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="pathological"
-    dc:URI='https://what.goes.here/MIXS:0000031/pathological'
+  <concept dc:identifier="mixed"
+    dc:URI='https://what.goes.here/MIXS:0000082/mixed'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="pathological"
+        dc:title="mixed"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="life_threatening"
-    dc:URI='https://what.goes.here/MIXS:0000031/life_threatening'
+  <concept dc:identifier="uncharacterized"
+    dc:URI='https://what.goes.here/MIXS:0000082/uncharacterized'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="life threatening"
-        xml:lang="en"/>
-    </preferred>
-    <alternative>
-    </alternative>
-  </concept>
-  <concept dc:identifier="congenital"
-    dc:URI='https://what.goes.here/MIXS:0000031/congenital'
-    dc:description="">
-    <preferred>
-      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="congenital"
+        dc:title="uncharacterized"
         xml:lang="en"/>
     </preferred>
     <alternative>

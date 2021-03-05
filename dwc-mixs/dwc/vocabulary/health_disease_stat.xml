@@ -1,119 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
-<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/source_uvig/'
-  dc:description="The source_uvig Vocabulary is a recommended set of values to use for the source_uvig (MIXS:0000035) term in the DNA Derived Data extension."
-  dc:title="Genomic Standards Consortium source_uvig Vocabulary (MIXS:0000035)"
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/health_disease_stat/'
+  dc:description="The health_disease_stat Vocabulary is a recommended set of values to use for the health_disease_stat (MIXS:0000031) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium health_disease_stat Vocabulary (MIXS:0000031)"
   dc:issued="2021-03-04"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
-  <concept dc:identifier="metagenome_not_viral_targeted"
-    dc:URI='https://what.goes.here/MIXS:0000035/metagenome_not_viral_targeted'
+  <concept dc:identifier="healthy"
+    dc:URI='https://what.goes.here/MIXS:0000031/healthy'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="metagenome (not viral targeted)"
+        dc:title="healthy"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="viral_fraction_metagenome_virome"
-    dc:URI='https://what.goes.here/MIXS:0000035/viral_fraction_metagenome_virome'
+  <concept dc:identifier="diseased"
+    dc:URI='https://what.goes.here/MIXS:0000031/diseased'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="viral fraction metagenome (virome)"
+        dc:title="diseased"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="sequence_targeted_metagenome"
-    dc:URI='https://what.goes.here/MIXS:0000035/sequence_targeted_metagenome'
+  <concept dc:identifier="dead"
+    dc:URI='https://what.goes.here/MIXS:0000031/dead'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="sequence-targeted metagenome"
+        dc:title="dead"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="metatranscriptome_not_viral_targeted"
-    dc:URI='https://what.goes.here/MIXS:0000035/metatranscriptome_not_viral_targeted'
+  <concept dc:identifier="disease-free"
+    dc:URI='https://what.goes.here/MIXS:0000031/disease-free'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="metatranscriptome (not viral targeted)"
+        dc:title="disease-free"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="viral_fraction_rna_metagenome_rna_virome"
-    dc:URI='https://what.goes.here/MIXS:0000035/viral_fraction_rna_metagenome_rna_virome'
+  <concept dc:identifier="undetermined"
+    dc:URI='https://what.goes.here/MIXS:0000031/undetermined'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="viral fraction RNA metagenome (RNA virome)"
+        dc:title="undetermined"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="sequence_targeted_rna_metagenome"
-    dc:URI='https://what.goes.here/MIXS:0000035/sequence_targeted_rna_metagenome'
+  <concept dc:identifier="recovering"
+    dc:URI='https://what.goes.here/MIXS:0000031/recovering'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="sequence-targeted RNA metagenome"
+        dc:title="recovering"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="microbial_single_amplified_genome_sag"
-    dc:URI='https://what.goes.here/MIXS:0000035/microbial_single_amplified_genome_sag'
+  <concept dc:identifier="resolving"
+    dc:URI='https://what.goes.here/MIXS:0000031/resolving'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="microbial single amplified genome (SAG)"
+        dc:title="resolving"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="viral_single_amplified_genome_v_sag"
-    dc:URI='https://what.goes.here/MIXS:0000035/viral_single_amplified_genome_v_sag'
+  <concept dc:identifier="pre_existing_condition"
+    dc:URI='https://what.goes.here/MIXS:0000031/pre_existing_condition'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="viral single amplified genome (vSAG)"
+        dc:title="pre-existing condition"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="isolate_microbial_genome"
-    dc:URI='https://what.goes.here/MIXS:0000035/isolate_microbial_genome'
+  <concept dc:identifier="pathological"
+    dc:URI='https://what.goes.here/MIXS:0000031/pathological'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="isolate microbial genome"
+        dc:title="pathological"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="other"
-    dc:URI='https://what.goes.here/MIXS:0000035/other'
+  <concept dc:identifier="life_threatening"
+    dc:URI='https://what.goes.here/MIXS:0000031/life_threatening'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="other"
+        dc:title="life threatening"
+        xml:lang="en"/>
+    </preferred>
+    <alternative>
+    </alternative>
+  </concept>
+  <concept dc:identifier="congenital"
+    dc:URI='https://what.goes.here/MIXS:0000031/congenital'
+    dc:description="">
+    <preferred>
+      <term dc:source="Genomic Standards Consortium MIxS Data Standard"
+        dc:title="congenital"
         xml:lang="en"/>
     </preferred>
     <alternative>

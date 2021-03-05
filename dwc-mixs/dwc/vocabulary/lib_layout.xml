@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
-<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/single_cell_lysis_appr/'
-  dc:description="The single_cell_lysis_appr Vocabulary is a recommended set of values to use for the single_cell_lysis_appr (MIXS:0000076) term in the DNA Derived Data extension."
-  dc:title="Genomic Standards Consortium single_cell_lysis_appr Vocabulary (MIXS:0000076)"
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/lib_layout/'
+  dc:description="The lib_layout Vocabulary is a recommended set of values to use for the lib_layout (MIXS:0000041) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium lib_layout Vocabulary (MIXS:0000041)"
   dc:issued="2021-03-04"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
-  <concept dc:identifier="chemical"
-    dc:URI='https://what.goes.here/MIXS:0000076/chemical'
+  <concept dc:identifier="paired"
+    dc:URI='https://what.goes.here/MIXS:0000041/paired'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="chemical"
+        dc:title="paired"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="enzymatic"
-    dc:URI='https://what.goes.here/MIXS:0000076/enzymatic'
+  <concept dc:identifier="single"
+    dc:URI='https://what.goes.here/MIXS:0000041/single'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="enzymatic"
+        dc:title="single"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="physical"
-    dc:URI='https://what.goes.here/MIXS:0000076/physical'
+  <concept dc:identifier="vector"
+    dc:URI='https://what.goes.here/MIXS:0000041/vector'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="physical"
+        dc:title="vector"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="combination"
-    dc:URI='https://what.goes.here/MIXS:0000076/combination'
+  <concept dc:identifier="other"
+    dc:URI='https://what.goes.here/MIXS:0000041/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="combination"
+        dc:title="other"
         xml:lang="en"/>
     </preferred>
     <alternative>

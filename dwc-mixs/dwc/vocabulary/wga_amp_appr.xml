@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
-<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/detec_type/'
-  dc:description="The detec_type Vocabulary is a recommended set of values to use for the detec_type (MIXS:0000084) term in the DNA Derived Data extension."
-  dc:title="Genomic Standards Consortium detec_type Vocabulary (MIXS:0000084)"
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/wga_amp_appr/'
+  dc:description="The wga_amp_appr Vocabulary is a recommended set of values to use for the wga_amp_appr (MIXS:0000055) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium wga_amp_appr Vocabulary (MIXS:0000055)"
   dc:issued="2021-03-04"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
-  <concept dc:identifier="independent_sequence_u_vi_g"
-    dc:URI='https://what.goes.here/MIXS:0000084/independent_sequence_u_vi_g'
+  <concept dc:identifier="pcr_based"
+    dc:URI='https://what.goes.here/MIXS:0000055/pcr_based'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="independent sequence (UViG)"
+        dc:title="pcr based"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="provirus_up_vi_g"
-    dc:URI='https://what.goes.here/MIXS:0000084/provirus_up_vi_g'
+  <concept dc:identifier="mda_based"
+    dc:URI='https://what.goes.here/MIXS:0000055/mda_based'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="provirus (UpViG)"
+        dc:title="mda based"
         xml:lang="en"/>
     </preferred>
     <alternative>

@@ -19,7 +19,7 @@
           <html>
                <head>
                     <title><xsl:value-of select="@dc:title"/> - <xsl:value-of select="$defType"/></title>
-                    <link rel="stylesheet" type="text/css" href="/gbwg/dwc/style/human.css"/>
+                    <link rel="stylesheet" type="text/css" href="/gbwg/dwc-mixs/dwc/style/human.css"/>
                </head>
                <body>
                     <div class="container">

@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
-<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/biotic_relationship/'
-  dc:description="The biotic_relationship Vocabulary is a recommended set of values to use for the biotic_relationship (MIXS:0000028) term in the DNA Derived Data extension."
-  dc:title="Genomic Standards Consortium biotic_relationship Vocabulary (MIXS:0000028)"
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
+<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/bin_param/'
+  dc:description="The bin_param Vocabulary is a recommended set of values to use for the bin_param (MIXS:0000077) term in the DNA Derived Data extension."
+  dc:title="Genomic Standards Consortium bin_param Vocabulary (MIXS:0000077)"
   dc:issued="2021-03-04"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
-  <concept dc:identifier="free_living"
-    dc:URI='https://what.goes.here/MIXS:0000028/free_living'
+  <concept dc:identifier="homology_search"
+    dc:URI='https://what.goes.here/MIXS:0000077/homology_search'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="free living"
+        dc:title="homology search"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="parasitism"
-    dc:URI='https://what.goes.here/MIXS:0000028/parasitism'
+  <concept dc:identifier="kmer"
+    dc:URI='https://what.goes.here/MIXS:0000077/kmer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="parasitism"
+        dc:title="kmer"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="commensalism"
-    dc:URI='https://what.goes.here/MIXS:0000028/commensalism'
+  <concept dc:identifier="coverage"
+    dc:URI='https://what.goes.here/MIXS:0000077/coverage'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="commensalism"
+        dc:title="coverage"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="symbiotic"
-    dc:URI='https://what.goes.here/MIXS:0000028/symbiotic'
+  <concept dc:identifier="codon_usage"
+    dc:URI='https://what.goes.here/MIXS:0000077/codon_usage'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="symbiotic"
+        dc:title="codon usage"
         xml:lang="en"/>
     </preferred>
     <alternative>
     </alternative>
   </concept>
-  <concept dc:identifier="mutualism"
-    dc:URI='https://what.goes.here/MIXS:0000028/mutualism'
+  <concept dc:identifier="combination"
+    dc:URI='https://what.goes.here/MIXS:0000077/combination'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
-        dc:title="mutualism"
+        dc:title="combination"
         xml:lang="en"/>
     </preferred>
     <alternative>

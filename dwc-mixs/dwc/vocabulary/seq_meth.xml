@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
 <thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/seq_meth/'
   dc:description="The seq_meth Vocabulary is a recommended set of values to use for the seq_meth (MIXS:0000050) term in the DNA Derived Data extension."
   dc:title="Genomic Standards Consortium seq_meth Vocabulary (MIXS:0000050)"

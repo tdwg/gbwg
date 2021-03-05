@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/gbwg/dwc/style/human.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
 <extension xmlns="http://rs.gbif.org/extension/"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:dc="http://purl.org/dc/terms/"
@@ -88,7 +88,7 @@
         required='false'/>
     <property group='mixs extension'
         name='env_package'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/env_package.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/env_package.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000019'
         dc:relation=''
@@ -164,7 +164,7 @@
         required='false'/>
     <property group='nucleic acid sequence source'
         name='biotic_relationship'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/biotic_relationship.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/biotic_relationship.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000028'
         dc:relation=''
@@ -190,7 +190,7 @@
         required='false'/>
     <property group='nucleic acid sequence source'
         name='health_disease_stat'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/health_disease_stat.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/health_disease_stat.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000031'
         dc:relation=''
@@ -199,7 +199,7 @@
         required='false'/>
     <property group='nucleic acid sequence source'
         name='trophic_level'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/trophic_level.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/trophic_level.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000032'
         dc:relation=''
@@ -224,7 +224,7 @@
         required='false'/>
     <property group='nucleic acid sequence source'
         name='rel_to_oxygen'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/rel_to_oxygen.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/rel_to_oxygen.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000015'
         dc:relation=''
@@ -274,7 +274,7 @@
         required='false'/>
     <property group='nucleic acid sequence source'
         name='source_uvig'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/source_uvig.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/source_uvig.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000035'
         dc:relation=''
@@ -283,7 +283,7 @@
         required='false'/>
     <property group='nucleic acid sequence source'
         name='virus_enrich_appr'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/virus_enrich_appr.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/virus_enrich_appr.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000036'
         dc:relation=''
@@ -328,7 +328,7 @@
         required='false'/>
     <property group='sequencing'
         name='lib_layout'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/lib_layout.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/lib_layout.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000041'
         dc:relation=''
@@ -401,7 +401,7 @@
         required='false'/>
     <property group='sequencing'
         name='seq_meth'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/seq_meth.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/seq_meth.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000050'
         dc:relation=''
@@ -426,7 +426,7 @@
         required='false'/>
     <property group='sequencing'
         name='tax_ident'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/tax_ident.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/tax_ident.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000053'
         dc:relation=''
@@ -435,7 +435,7 @@
         required='false'/>
     <property group='sequencing'
         name='assembly_qual'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/assembly_qual.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/assembly_qual.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000056'
         dc:relation=''
@@ -559,7 +559,7 @@
         required='false'/>
     <property group='sequencing'
         name='compl_appr'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/compl_appr.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/compl_appr.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000071'
         dc:relation=''
@@ -576,7 +576,7 @@
         required='false'/>
     <property group='sequencing'
         name='contam_screen_input'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/contam_screen_input.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/contam_screen_input.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000005'
         dc:relation=''
@@ -593,7 +593,7 @@
         required='false'/>
     <property group='sequencing'
         name='decontam_software'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/decontam_software.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/decontam_software.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000074'
         dc:relation=''
@@ -602,7 +602,7 @@
         required='false'/>
     <property group='sequencing'
         name='sort_tech'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/sort_tech.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/sort_tech.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000075'
         dc:relation=''
@@ -611,7 +611,7 @@
         required='false'/>
     <property group='sequencing'
         name='single_cell_lysis_appr'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/single_cell_lysis_appr.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/single_cell_lysis_appr.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000076'
         dc:relation=''
@@ -628,7 +628,7 @@
         required='false'/>
     <property group='sequencing'
         name='wga_amp_appr'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/wga_amp_appr.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/wga_amp_appr.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000055'
         dc:relation=''
@@ -645,7 +645,7 @@
         required='false'/>
     <property group='sequencing'
         name='bin_param'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/bin_param.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/bin_param.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000077'
         dc:relation=''
@@ -654,7 +654,7 @@
         required='false'/>
     <property group='sequencing'
         name='bin_software'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/bin_software.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/bin_software.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000078'
         dc:relation=''
@@ -672,7 +672,7 @@
         required='false'/>
     <property group='sequencing'
         name='mag_cov_software'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/mag_cov_software.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/mag_cov_software.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000080'
         dc:relation=''
@@ -689,7 +689,7 @@
         required='false'/>
     <property group='sequencing'
         name='pred_genome_type'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/pred_genome_type.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/pred_genome_type.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000082'
         dc:relation=''
@@ -698,7 +698,7 @@
         required='false'/>
     <property group='sequencing'
         name='pred_genome_struc'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/pred_genome_struc.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/pred_genome_struc.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000083'
         dc:relation=''
@@ -707,7 +707,7 @@
         required='false'/>
     <property group='sequencing'
         name='detec_type'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/detec_type.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/detec_type.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000084'
         dc:relation=''
@@ -740,7 +740,7 @@
         required='false'/>
     <property group='sequencing'
         name='host_pred_appr'
-        thesaurus='https://thomasstjerne.github.io/gbwg/dwc/vocabulary/host_pred_appr.xml'
+        thesaurus='https://thomasstjerne.github.io/gbwg/dwc-mixs/dwc/vocabulary/host_pred_appr.xml'
         namespace='https://what.goes.here/'
         qualName='https://what.goes.here/MIXS:0000088'
         dc:relation=''
@@ -940,15 +940,6 @@
         qualName='http://rs.gbif.org/terms/miqe/automaticThresholdQuantificationCycle'
         dc:relation=''
         dc:description='Whether the threshold was set by the instrument or manually.'
-        examples='true'
-        required='false'/>
-    <property group='nucleic acid sequence source'
-        type='boolean'
-        name='automaticBaselineValue'
-        namespace='http://rs.gbif.org/terms/miqe/'
-        qualName='http://rs.gbif.org/terms/miqe/automaticBaselineValue'
-        dc:relation=''
-        dc:description='Whether the baseline value was set by the instrument or manually.'
         examples='true'
         required='false'/>
     <property group='nucleic acid sequence source'
