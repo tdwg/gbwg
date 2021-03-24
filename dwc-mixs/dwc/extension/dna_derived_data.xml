@@ -22,15 +22,6 @@
         examples='yes'
         required='false'/>
     <property group='investigation'
-        name='submitted_to_insdc'
-        type='boolean'
-        namespace='https://to.be.decided/'
-        qualName='https://to.be.decided/MIXS:0000004'
-        dc:relation=''
-        dc:description='"Depending on the study (large-scale e.g. done with next generation sequencing technology, or small-scale) sequences have to be submitted to SRA (Sequence Read Archive), DRA (DDBJ Read Archive) or via the classical Webin/Sequin systems to Genbank, ENA and DDBJ. Although this field is mandatory, it is meant as a self-test field, therefore it is not necessary to include this field in contextual data submitted to databases"'
-        examples='yes'
-        required='false'/>
-    <property group='investigation'
         name='investigation_type'
         namespace='https://to.be.decided/'
         qualName='https://to.be.decided/MIXS:0000007'
