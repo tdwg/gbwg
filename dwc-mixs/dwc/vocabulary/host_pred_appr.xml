@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/host_pred_appr/'
+<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/host_pred_appr/'
   dc:description="The host_pred_appr Vocabulary is a recommended set of values to use for the host_pred_appr (MIXS:0000088) term in the DNA Derived Data extension."
   dc:title="Genomic Standards Consortium host_pred_appr Vocabulary (MIXS:0000088)"
   dc:issued="2021-03-04"
@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="provirus"
-    dc:URI='https://to.be.decided/MIXS:0000088/provirus'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000088/provirus'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="host_sequence_similarity"
-    dc:URI='https://to.be.decided/MIXS:0000088/host_sequence_similarity'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000088/host_sequence_similarity'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="crispr_spacer_match"
-    dc:URI='https://to.be.decided/MIXS:0000088/crispr_spacer_match'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000088/crispr_spacer_match'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="kmer_similarity"
-    dc:URI='https://to.be.decided/MIXS:0000088/kmer_similarity'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000088/kmer_similarity'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="co-occurrence"
-    dc:URI='https://to.be.decided/MIXS:0000088/co-occurrence'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000088/co-occurrence'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -65,7 +65,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="combination"
-    dc:URI='https://to.be.decided/MIXS:0000088/combination'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000088/combination'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -76,7 +76,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="other"
-    dc:URI='https://to.be.decided/MIXS:0000088/other'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000088/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

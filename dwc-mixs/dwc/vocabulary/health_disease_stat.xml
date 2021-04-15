@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='http://gensc.org/ns/mixs/terms/vocabulary/health_disease_stat/'
+<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/health_disease_stat/'
   dc:description="The health_disease_stat Vocabulary is a recommended set of values to use for the health_disease_stat (MIXS:0000031) term in the DNA Derived Data extension."
   dc:title="Genomic Standards Consortium health_disease_stat Vocabulary (MIXS:0000031)"
   dc:issued="2021-03-04"
@@ -10,7 +10,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="healthy"
-    dc:URI='https://to.be.decided/MIXS:0000031/healthy'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/healthy'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="diseased"
-    dc:URI='https://to.be.decided/MIXS:0000031/diseased'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/diseased'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="dead"
-    dc:URI='https://to.be.decided/MIXS:0000031/dead'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/dead'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="disease-free"
-    dc:URI='https://to.be.decided/MIXS:0000031/disease-free'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/disease-free'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="undetermined"
-    dc:URI='https://to.be.decided/MIXS:0000031/undetermined'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/undetermined'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -65,7 +65,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="recovering"
-    dc:URI='https://to.be.decided/MIXS:0000031/recovering'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/recovering'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -76,7 +76,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="resolving"
-    dc:URI='https://to.be.decided/MIXS:0000031/resolving'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/resolving'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -87,7 +87,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="pre_existing_condition"
-    dc:URI='https://to.be.decided/MIXS:0000031/pre_existing_condition'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/pre_existing_condition'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -98,7 +98,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="pathological"
-    dc:URI='https://to.be.decided/MIXS:0000031/pathological'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/pathological'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -109,7 +109,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="life_threatening"
-    dc:URI='https://to.be.decided/MIXS:0000031/life_threatening'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/life_threatening'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -120,7 +120,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="congenital"
-    dc:URI='https://to.be.decided/MIXS:0000031/congenital'
+    dc:URI='https://w3id.org/gensc/terms/MIXS:0000031/congenital'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
