@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
 <thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/sort_tech/'
-  dc:description="The sort_tech Vocabulary is a recommended set of values to use for the sort_tech (MIXS:0000075) term in the DNA Derived Data extension."
+  dc:description="The sort_tech Vocabulary is a recommended set of values to use for the sort_tech (MIXS:0000075) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium sort_tech Vocabulary (MIXS:0000075)"
   dc:issued="2021-03-04"
   dc:relation=""

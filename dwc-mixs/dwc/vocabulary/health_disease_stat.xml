@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
 <thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/health_disease_stat/'
-  dc:description="The health_disease_stat Vocabulary is a recommended set of values to use for the health_disease_stat (MIXS:0000031) term in the DNA Derived Data extension."
+  dc:description="The health_disease_stat Vocabulary is a recommended set of values to use for the health_disease_stat (MIXS:0000031) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium health_disease_stat Vocabulary (MIXS:0000031)"
   dc:issued="2021-03-04"
   dc:relation=""
