@@ -31,7 +31,6 @@ Human readable versions:
 - [assembly_qual (MIXS:0000056)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/assembly_qual.xml)
 - [bin_param (MIXS:0000077)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/bin_param.xml)
 - [bin_software (MIXS:0000078)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/bin_software.xml)
-- [biotic_relationship (MIXS:0000028)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/biotic_relationship.xml)
 - [compl_appr (MIXS:0000071)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/compl_appr.xml)
 - [contam_screen_input (MIXS:0000005)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/contam_screen_input.xml)
 - [decontam_software (MIXS:0000074)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/decontam_software.xml)
