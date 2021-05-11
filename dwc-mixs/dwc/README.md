@@ -1,16 +1,12 @@
 # A Darwin Core extension for DNA derived data
 
-The draft extension is [here](extension/dna_derived_data.xml) (human readable version [here](https://tdwg.github.io/gbwg/dwc-mixs/dwc/extension/dna_derived_data.xml)).
+Example of how MIxS terms could be used in a DwC extension is [here](extension/mixs_darwin_core_extension.xml) (human readable version [here](https://tdwg.github.io/gbwg/dwc-mixs/dwc/extension/mixs_darwin_core_extension.xml)).
 
 DwC vocabularies for MIxS terms with enumeration value syntax are [here](#vocabularies).
 
-The initial draft was prepared as part of the "Publishing DNA-derived data through biodiversity data platforms" (https://doi.org/10.35035/doc-vf1a-nr22) 
+## MIxS terms excluded from the extension
 
-## Terms included in the extension
-
-### Source: MIxS
-
-The extension based primarily on MIxS and includes all terms from MIxS v6 core, with the exception the following considered redundant to terms in [DwC:Location](https://dwc.tdwg.org/terms/#location).
+The extension based on MIxS and includes all terms from MIxS v6 core, with the exception the following considered redundant to DwC terms. See [SSSOM mapping DwC-MIxS interoperability](https://docs.google.com/spreadsheets/d/1k6Xe1OREUVISLjw1XLrtLqWsE7QgvWf7lSIXEbqXDpA/edit#gid=0).
 
 - `lat_lon` 
 - `depth`
@@ -18,49 +14,13 @@ The extension based primarily on MIxS and includes all terms from MIxS v6 core, 
 - `elev`
 - `geo_loc_name`
 - `collection_date`
+- `source_mat_id`
+- `biotic_relationship`
+- `samp_collect_device`
+- `samp_mat_process`
+- `samp_size`
+- `url`
 
-The extension also includes some atomized terms based on the `pcr_primers` field:
-
-- `pcr_primer_forward`
-- `pcr_primer_reverse`
-
-And the following related terms
-
-- `pcr_primer_name_forward`
-- `pcr_primer_name_reverse`
-- `pcr_primer_reference`
-
-### Source: GGBN
-
-- `concentration`
-- `concentrationUnit`
-- `methodDeterminationConcentrationAndRatios`
-- `ratioOfAbsorbance260_230`
-- `ratioOfAbsorbance260_280`
-  
-
-### Souce: MIQE
-
-These terms was included to support data derived from qPCR and ddPCR assays.
-See https://doi.org/10.1373/clinchem.2008.112797
-
-- `annealingTemp`
-- `annealingTempUnit`
-- `probeReporter`
-- `probeQuencher`
-- `ampliconSize`
-- `thresholdQuantificationCycle`
-- `baselineValue`
-- `quantificationCycle`
-- `automaticThresholdQuantificationCycle`
-- `automaticBaselineValue`
-- `contaminationAssessment`
-- `partitionVolume`
-- `partitionVolumeUnit`
-- `estimatedNumberOfCopies`
-- `amplificationReactionVolume`
-- `amplificationReactionVolumeUnit`
-- `pcr_analysis_software`
 
 ## Vocabularies
 
