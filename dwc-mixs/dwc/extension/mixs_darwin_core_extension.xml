@@ -665,7 +665,7 @@
         examples='independent sequence (UViG)'
         required='false'/>
     <property group='sequencing'
-        name='votu_class_appr'
+        name='otu_class_appr'
         namespace='https://w3id.org/gensc/terms/'
         qualName='https://w3id.org/gensc/terms/MIXS:0000085'
         dc:relation=''
@@ -673,7 +673,7 @@
         examples='95% ANI;85% AF; greedy incremental clustering'
         required='false'/>
     <property group='sequencing'
-        name='votu_seq_comp_appr'
+        name='otu_seq_comp_appr'
         namespace='https://w3id.org/gensc/terms/'
         qualName='https://w3id.org/gensc/terms/MIXS:0000086'
         dc:relation=''
@@ -681,7 +681,7 @@
         examples='blastn;2.6.0+;e-value cutoff: 0.001'
         required='false'/>
     <property group='sequencing'
-        name='votu_db'
+        name='otu_db'
         namespace='https://w3id.org/gensc/terms/'
         qualName='https://w3id.org/gensc/terms/MIXS:0000087'
         dc:relation=''
