@@ -1,15 +1,20 @@
 # A DwC to MIxS mapping
 
-The content of this folder is the output of an extensive mapping in the direction of DwC to MIxS using Simple Standard for Sharing Ontology Mappings (SSSOM) in combination with the Simple Knowledge Organization System (SKOS) ontology to qualify the mapping. 
+The content of this folder is the result of an extensive mapping in the direction of DwC to MIxS using Simple Standard for Sharing Ontology Mappings ([SSSOM](https://github.com/mapping-commons/SSSOM)) in combination with the Simple Knowledge Organization System ([SKOS](https://www.w3.org/TR/skos-reference/)) ontology to qualify the mapping. 
 
-The SSSOM mapping includes information on the semantic and syntactic mapping, supporting metadata of the terms, as well as comments with further explanations of the mapping, if needed. 
-To serve all MIxS core terms, the mapping should be used in combination with the MIxS-DwC extension.
+This SSSOM mapping includes information on the semantic and syntactic mapping, supporting metadata of the terms, as well as comments with further explanations of the mapping, if needed. 
 
-This repository contains two mappings in SSSOM-compliant tab-separated value files:
+Syntactic predicates were added in addition to the metadata fields suggested by the SSSOM guidelines to capture differences in syntax between the terms from both standards ([#54](https://github.com/tdwg/gbwg/issues/54), [SSSOM#52](https://github.com/mapping-commons/SSSOM/issues/52), [SSSOM#56](https://github.com/mapping-commons/SSSOM/issues/56)).
+
+To serve all MIxS core terms, the mapping should be used in combination with the [MIxS-DwC extension](https://github.com/tdwg/gbwg/tree/main/dwc-mixs/dwc).
+
+## Content of this folder
+This folder contains two mappings in SSSOM-compliant tab-separated value files:
 * SSSOM_mapping_DwC-MIxS.tsv
-   * includes relevant SSSOM colums, as well as syntactic mapping predicates [`syntax_predicate_id`, `syntax_predicate_label`] and accompanying comments[`syntax_comment`].
+   * includes relevant [SSSOM metadata elements](https://github.com/mapping-commons/SSSOM/blob/master/SSSOM.md#sssom-metadata-elements), as well as syntactic mapping predicates [`syntax_predicate_id`, `syntax_predicate_label`] and accompanying comments[`syntax_comment`].
 * SSSOM_mapping_DwC-MIxS_includingAdditionalFields.tsv
-   * includes relevant SSSOM colums, syntactic mapping predicates and accompanying comments, as well as additional metadata on the mapped terms (definitions [`subject_definition`, `object_definition`], syntax requirements [`subject_valueSyntax`, `object_valueSyntax`]).
+   * includes relevant [SSSOM metadata elements](https://github.com/mapping-commons/SSSOM/blob/master/SSSOM.md#sssom-metadata-elements), syntactic mapping predicates and accompanying comments, as well as additional metadata on the mapped terms (definitions [`subject_definition`, `object_definition`], syntax requirements [`subject_valueSyntax`, `object_valueSyntax`]).
+
 
 ## Terms included in the mapping
 
