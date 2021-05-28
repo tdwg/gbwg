@@ -35,8 +35,6 @@ Human readable versions:
 - [contam_screen_input (MIXS:0000005)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/contam_screen_input.xml)
 - [decontam_software (MIXS:0000074)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/decontam_software.xml)
 - [detec_type (MIXS:0000084)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/detec_type.xml)
-- [env_package (MIXS:0000019)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/env_package.xml)
-- [health_disease_stat (MIXS:0000031)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/health_disease_stat.xml)
 - [host_pred_appr (MIXS:0000088)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/host_pred_appr.xml)
 - [lib_layout (MIXS:0000041)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/lib_layout.xml)
 - [mag_cov_software (MIXS:0000080)](https://tdwg.github.io/gbwg/dwc-mixs/dwc/vocabulary/mag_cov_software.xml)
