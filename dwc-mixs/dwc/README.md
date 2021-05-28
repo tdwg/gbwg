@@ -1,4 +1,4 @@
-# A Darwin Core extension for DNA derived data
+# A MIxS Darwin Core extension for DNA derived data
 
 Example of how MIxS terms could be used in a DwC extension is [here](extension/mixs_darwin_core_extension.xml) (human readable version [here](https://tdwg.github.io/gbwg/dwc-mixs/dwc/extension/mixs_darwin_core_extension.xml)).
 
