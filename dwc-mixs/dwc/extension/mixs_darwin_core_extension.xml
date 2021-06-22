@@ -13,7 +13,7 @@
     dc:relation="https://w3id.org/gensc/"
     dc:description="Extends Darwin Core to document metadata about sequences using MIxS standards">
     <property group=''
-        name='sample_name'
+        name='samp_name'
         namespace='https://w3id.org/gensc/terms/'
         qualName='https://w3id.org/gensc/terms/MIXS:0001107'
         dc:relation=''
