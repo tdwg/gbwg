@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/pred_genome_type/'
+<thesaurus dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/'
   dc:description="The pred_genome_type Vocabulary is a recommended set of values to use for the pred_genome_type (MIXS:0000082) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium pred_genome_type Vocabulary (MIXS:0000082)"
-  dc:issued="2021-03-04"
+  dc:issued="2021-05-14"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="DNA"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000082/DNA'
+    dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/DNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="dsDNA"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000082/dsDNA'
+    dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/dsDNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ssDNA"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000082/ssDNA'
+    dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/ssDNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="RNA"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000082/RNA'
+    dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/RNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="dsRNA"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000082/dsRNA'
+    dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/dsRNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -65,7 +65,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ssRNA"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000082/ssRNA'
+    dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/ssRNA'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -76,7 +76,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ss_rna"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000082/ss_rna'
+    dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/ss_rna'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -87,7 +87,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ss_rna"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000082/ss_rna'
+    dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/ss_rna'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -98,7 +98,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="mixed"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000082/mixed'
+    dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/mixed'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -109,7 +109,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="uncharacterized"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000082/uncharacterized'
+    dc:URI='https://rs.gbif.org/vocab/dna/pred_genome_type/uncharacterized'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

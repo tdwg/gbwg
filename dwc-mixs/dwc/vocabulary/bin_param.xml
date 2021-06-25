@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/bin_param/'
+<thesaurus dc:URI='https://rs.gbif.org/vocab/dna/bin_param/'
   dc:description="The bin_param Vocabulary is a recommended set of values to use for the bin_param (MIXS:0000077) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium bin_param Vocabulary (MIXS:0000077)"
-  dc:issued="2021-03-04"
+  dc:issued="2021-05-14"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="homology_search"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000077/homology_search'
+    dc:URI='https://rs.gbif.org/vocab/dna/bin_param/homology_search'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="kmer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000077/kmer'
+    dc:URI='https://rs.gbif.org/vocab/dna/bin_param/kmer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="coverage"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000077/coverage'
+    dc:URI='https://rs.gbif.org/vocab/dna/bin_param/coverage'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="codon_usage"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000077/codon_usage'
+    dc:URI='https://rs.gbif.org/vocab/dna/bin_param/codon_usage'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="combination"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000077/combination'
+    dc:URI='https://rs.gbif.org/vocab/dna/bin_param/combination'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

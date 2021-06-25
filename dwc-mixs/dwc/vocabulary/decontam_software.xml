@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/decontam_software/'
+<thesaurus dc:URI='https://rs.gbif.org/vocab/dna/decontam_software/'
   dc:description="The decontam_software Vocabulary is a recommended set of values to use for the decontam_software (MIXS:0000074) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium decontam_software Vocabulary (MIXS:0000074)"
-  dc:issued="2021-03-04"
+  dc:issued="2021-05-14"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="checkm/refinem"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000074/checkm/refinem'
+    dc:URI='https://rs.gbif.org/vocab/dna/decontam_software/checkm/refinem'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="anvi´o"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000074/anvi_o'
+    dc:URI='https://rs.gbif.org/vocab/dna/decontam_software/anvi_o'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="prodege"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000074/prodege'
+    dc:URI='https://rs.gbif.org/vocab/dna/decontam_software/prodege'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="bbtools:decontaminate.sh"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000074/bbtools:decontaminate.sh'
+    dc:URI='https://rs.gbif.org/vocab/dna/decontam_software/bbtools:decontaminate.sh'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="acdc"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000074/acdc'
+    dc:URI='https://rs.gbif.org/vocab/dna/decontam_software/acdc'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -65,7 +65,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="combination"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000074/combination'
+    dc:URI='https://rs.gbif.org/vocab/dna/decontam_software/combination'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

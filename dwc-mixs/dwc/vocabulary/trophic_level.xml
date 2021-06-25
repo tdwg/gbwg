@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/trophic_level/'
+<thesaurus dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/'
   dc:description="The trophic_level Vocabulary is a recommended set of values to use for the trophic_level (MIXS:0000032) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium trophic_level Vocabulary (MIXS:0000032)"
-  dc:issued="2021-03-04"
+  dc:issued="2021-05-14"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="autotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/autotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/autotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="carboxydotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/carboxydotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/carboxydotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="chemoautotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/chemoautotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/chemoautotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="chemoheterotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/chemoheterotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/chemoheterotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="chemolithoautotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/chemolithoautotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/chemolithoautotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -65,7 +65,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="chemolithotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/chemolithotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/chemolithotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -76,7 +76,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="chemoorganoheterotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/chemoorganoheterotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/chemoorganoheterotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -87,7 +87,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="chemoorganotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/chemoorganotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/chemoorganotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -98,7 +98,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="chemosynthetic"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/chemosynthetic'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/chemosynthetic'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -109,7 +109,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="chemotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/chemotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/chemotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -120,7 +120,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="copiotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/copiotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/copiotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -131,7 +131,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="diazotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/diazotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/diazotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -142,7 +142,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="facultative"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/facultative'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/facultative'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -153,7 +153,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="autotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/autotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/autotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -164,7 +164,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="heterotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/heterotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/heterotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -175,7 +175,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="lithoautotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/lithoautotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/lithoautotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -186,7 +186,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="lithoheterotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/lithoheterotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/lithoheterotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -197,7 +197,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="lithotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/lithotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/lithotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -208,7 +208,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="methanotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/methanotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/methanotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -219,7 +219,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="methylotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/methylotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/methylotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -230,7 +230,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="mixotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/mixotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/mixotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -241,7 +241,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="obligate"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/obligate'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/obligate'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -252,7 +252,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="chemoautolithotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/chemoautolithotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/chemoautolithotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -263,7 +263,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="oligotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/oligotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/oligotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -274,7 +274,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="organoheterotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/organoheterotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/organoheterotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -285,7 +285,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="organotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/organotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/organotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -296,7 +296,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="photoautotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/photoautotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/photoautotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -307,7 +307,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="photoheterotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/photoheterotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/photoheterotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -318,7 +318,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="photolithoautotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/photolithoautotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/photolithoautotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -329,7 +329,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="photolithotroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/photolithotroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/photolithotroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -340,7 +340,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="photosynthetic"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/photosynthetic'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/photosynthetic'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -351,7 +351,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="phototroph"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000032/phototroph'
+    dc:URI='https://rs.gbif.org/vocab/dna/trophic_level/phototroph'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

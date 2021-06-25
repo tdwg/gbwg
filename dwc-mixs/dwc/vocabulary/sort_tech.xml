@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/sort_tech/'
+<thesaurus dc:URI='https://rs.gbif.org/vocab/dna/sort_tech/'
   dc:description="The sort_tech Vocabulary is a recommended set of values to use for the sort_tech (MIXS:0000075) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium sort_tech Vocabulary (MIXS:0000075)"
-  dc:issued="2021-03-04"
+  dc:issued="2021-05-14"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="flow_cytometric_cell_sorting"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000075/flow_cytometric_cell_sorting'
+    dc:URI='https://rs.gbif.org/vocab/dna/sort_tech/flow_cytometric_cell_sorting'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="microfluidics"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000075/microfluidics'
+    dc:URI='https://rs.gbif.org/vocab/dna/sort_tech/microfluidics'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="lazer-tweezing"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000075/lazer-tweezing'
+    dc:URI='https://rs.gbif.org/vocab/dna/sort_tech/lazer-tweezing'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="optical_manipulation"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000075/optical_manipulation'
+    dc:URI='https://rs.gbif.org/vocab/dna/sort_tech/optical_manipulation'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="micromanipulation"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000075/micromanipulation'
+    dc:URI='https://rs.gbif.org/vocab/dna/sort_tech/micromanipulation'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -65,7 +65,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="other"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000075/other'
+    dc:URI='https://rs.gbif.org/vocab/dna/sort_tech/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/virus_enrich_appr/'
+<thesaurus dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/'
   dc:description="The virus_enrich_appr Vocabulary is a recommended set of values to use for the virus_enrich_appr (MIXS:0000036) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium virus_enrich_appr Vocabulary (MIXS:0000036)"
-  dc:issued="2021-03-04"
+  dc:issued="2021-05-14"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="filtration"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/filtration'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/filtration'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ultrafiltration"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/ultrafiltration'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/ultrafiltration'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="centrifugation"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/centrifugation'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/centrifugation'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ultracentrifugation"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/ultracentrifugation'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/ultracentrifugation'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="peg_precipitation"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/peg_precipitation'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/peg_precipitation'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -65,7 +65,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="fe_cl_precipitation"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/fe_cl_precipitation'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/fe_cl_precipitation'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -76,7 +76,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="cs_cl_density_gradient"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/cs_cl_density_gradient'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/cs_cl_density_gradient'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -87,7 +87,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="DNAse"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/DNAse'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/DNAse'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -98,7 +98,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="RNAse"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/RNAse'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/RNAse'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -109,7 +109,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="targeted_sequence_capture"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/targeted_sequence_capture'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/targeted_sequence_capture'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -120,7 +120,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="other"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/other'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -131,7 +131,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="none"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000036/none'
+    dc:URI='https://rs.gbif.org/vocab/dna/virus_enrich_appr/none'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

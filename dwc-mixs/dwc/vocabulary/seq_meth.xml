@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/seq_meth/'
+<thesaurus dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/'
   dc:description="The seq_meth Vocabulary is a recommended set of values to use for the seq_meth (MIXS:0000050) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium seq_meth Vocabulary (MIXS:0000050)"
-  dc:issued="2021-03-04"
+  dc:issued="2021-05-14"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="454_gs"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/454_gs'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/454_gs'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="454_gs_20"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/454_gs_20'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/454_gs_20'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="454_gs_flx"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/454_gs_flx'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/454_gs_flx'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="454_gs_flx"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/454_gs_flx'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/454_gs_flx'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -54,7 +54,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="454_gs_flx_titanium"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/454_gs_flx_titanium'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/454_gs_flx_titanium'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -65,7 +65,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="454_gs_junior"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/454_gs_junior'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/454_gs_junior'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -76,7 +76,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_310_genetic_analyzer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_310_genetic_analyzer'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_310_genetic_analyzer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -87,7 +87,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_3130_genetic_analyzer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_3130_genetic_analyzer'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_3130_genetic_analyzer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -98,7 +98,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_3130_x_l_genetic_analyzer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_3130_x_l_genetic_analyzer'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_3130_x_l_genetic_analyzer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -109,7 +109,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_3500_genetic_analyzer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_3500_genetic_analyzer'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_3500_genetic_analyzer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -120,7 +120,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_3500_x_l_genetic_analyzer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_3500_x_l_genetic_analyzer'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_3500_x_l_genetic_analyzer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -131,7 +131,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_3730_genetic_analyzer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_3730_genetic_analyzer'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_3730_genetic_analyzer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -142,7 +142,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_3730_x_l_genetic_analyzer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_3730_x_l_genetic_analyzer'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_3730_x_l_genetic_analyzer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -153,7 +153,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_5500_genetic_analyzer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_5500_genetic_analyzer'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_5500_genetic_analyzer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -164,7 +164,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_5500_xl_genetic_analyzer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_5500_xl_genetic_analyzer'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_5500_xl_genetic_analyzer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -175,7 +175,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_5500_xl_w_genetic_analysis_system"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_5500_xl_w_genetic_analysis_system'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_5500_xl_w_genetic_analysis_system'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -186,7 +186,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_so_li_d_system"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_so_li_d_system'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_so_li_d_system'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -197,7 +197,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_so_li_d_system_2_0"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_so_li_d_system_2_0'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_so_li_d_system_2_0'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -208,7 +208,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_so_li_d_system_3_0"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_so_li_d_system_3_0'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_so_li_d_system_3_0'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -219,7 +219,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_so_li_d_3_plus_system"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_so_li_d_3_plus_system'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_so_li_d_3_plus_system'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -230,7 +230,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_so_li_d_4_system"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_so_li_d_4_system'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_so_li_d_4_system'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -241,7 +241,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_so_li_d_4_hq_system"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_so_li_d_4_hq_system'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_so_li_d_4_hq_system'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -252,7 +252,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ab_so_li_d_pi_system"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ab_so_li_d_pi_system'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ab_so_li_d_pi_system'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -263,7 +263,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="BGISEQ-500"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/BGISEQ-500'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/BGISEQ-500'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -274,7 +274,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="GridION"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/GridION'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/GridION'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -285,7 +285,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_genome_analyzer"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_genome_analyzer'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_genome_analyzer'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -296,7 +296,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_genome_analyzer_ii"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_genome_analyzer_ii'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_genome_analyzer_ii'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -307,7 +307,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_genome_analyzer_i_ix"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_genome_analyzer_i_ix'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_genome_analyzer_i_ix'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -318,7 +318,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_hi_seq_1000"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_hi_seq_1000'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_hi_seq_1000'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -329,7 +329,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_hi_seq_1500"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_hi_seq_1500'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_hi_seq_1500'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -340,7 +340,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_hi_seq_2000"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_hi_seq_2000'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_hi_seq_2000'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -351,7 +351,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_hi_seq_2500"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_hi_seq_2500'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_hi_seq_2500'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -362,7 +362,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_hi_seq_3000"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_hi_seq_3000'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_hi_seq_3000'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -373,7 +373,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_hi_seq_4000"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_hi_seq_4000'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_hi_seq_4000'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -384,7 +384,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_hi_scan_sq"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_hi_scan_sq'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_hi_scan_sq'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -395,7 +395,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_mi_seq"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_mi_seq'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_mi_seq'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -406,7 +406,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_hi_seq_x_five"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_hi_seq_x_five'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_hi_seq_x_five'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -417,7 +417,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_hi_seq_x_ten"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_hi_seq_x_ten'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_hi_seq_x_ten'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -428,7 +428,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_next_seq_500"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_next_seq_500'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_next_seq_500'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -439,7 +439,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="illumina_next_seq_550"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/illumina_next_seq_550'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/illumina_next_seq_550'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -450,7 +450,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ion_torrent_pgm"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ion_torrent_pgm'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ion_torrent_pgm'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -461,7 +461,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ion_torrent_proton"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ion_torrent_proton'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ion_torrent_proton'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -472,7 +472,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ion_torrent_s_5"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ion_torrent_s_5'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ion_torrent_s_5'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -483,7 +483,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="ion_torrent_s_5_xl"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/ion_torrent_s_5_xl'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/ion_torrent_s_5_xl'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -494,7 +494,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="MinION"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/MinION'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/MinION'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -505,7 +505,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="pac_bio_rs"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/pac_bio_rs'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/pac_bio_rs'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -516,7 +516,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="pac_bio_rs_ii"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/pac_bio_rs_ii'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/pac_bio_rs_ii'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -527,7 +527,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="PromethION"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/PromethION'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/PromethION'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -538,7 +538,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="Sequel"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000050/Sequel'
+    dc:URI='https://rs.gbif.org/vocab/dna/seq_meth/Sequel'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

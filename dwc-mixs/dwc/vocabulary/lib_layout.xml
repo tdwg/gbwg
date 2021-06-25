@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/lib_layout/'
+<thesaurus dc:URI='https://rs.gbif.org/vocab/dna/lib_layout/'
   dc:description="The lib_layout Vocabulary is a recommended set of values to use for the lib_layout (MIXS:0000041) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium lib_layout Vocabulary (MIXS:0000041)"
-  dc:issued="2021-03-04"
+  dc:issued="2021-05-14"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="paired"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000041/paired'
+    dc:URI='https://rs.gbif.org/vocab/dna/lib_layout/paired'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="single"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000041/single'
+    dc:URI='https://rs.gbif.org/vocab/dna/lib_layout/single'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="vector"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000041/vector'
+    dc:URI='https://rs.gbif.org/vocab/dna/lib_layout/vector'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -43,7 +43,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="other"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000041/other'
+    dc:URI='https://rs.gbif.org/vocab/dna/lib_layout/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"

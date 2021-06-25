@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
-<thesaurus dc:URI='https://w3id.org/gensc/terms/vocabulary/tax_ident/'
+<thesaurus dc:URI='https://rs.gbif.org/vocab/dna/tax_ident/'
   dc:description="The tax_ident Vocabulary is a recommended set of values to use for the tax_ident (MIXS:0000053) term in the MIxS Darwin Core Extension."
   dc:title="Genomic Standards Consortium tax_ident Vocabulary (MIXS:0000053)"
-  dc:issued="2021-03-04"
+  dc:issued="2021-05-14"
   dc:relation=""
   xmlns="http://rs.gbif.org/thesaurus/"
   xmlns:dc="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://rs.gbif.org/thesaurus/  http://rs.gbif.org/schema/thesaurus.xsd">
   <concept dc:identifier="16_s_r_rna_gene"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000053/16_s_r_rna_gene'
+    dc:URI='https://rs.gbif.org/vocab/dna/tax_ident/16_s_r_rna_gene'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -21,7 +21,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="multi_marker_approach"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000053/multi_marker_approach'
+    dc:URI='https://rs.gbif.org/vocab/dna/tax_ident/multi_marker_approach'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
@@ -32,7 +32,7 @@
     </alternative>
   </concept>
   <concept dc:identifier="other"
-    dc:URI='https://w3id.org/gensc/terms/MIXS:0000053/other'
+    dc:URI='https://rs.gbif.org/vocab/dna/tax_ident/other'
     dc:description="">
     <preferred>
       <term dc:source="Genomic Standards Consortium MIxS Data Standard"
