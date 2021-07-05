@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/gbwg/dwc-mixs/dwc/style/human.xsl"?>
 <thesaurus dc:URI='https://rs.gbif.org/vocab/dna/mag_cov_software/'
-  dc:description="The mag_cov_software Vocabulary is a recommended set of values to use for the mag_cov_software (MIXS:0000080) term in the MIxS Darwin Core Extension."
+  dc:description="The mag_cov_software Vocabulary is a recommended set of values to use for the mag_cov_software (MIXS:0000080) term."
   dc:title="Genomic Standards Consortium mag_cov_software Vocabulary (MIXS:0000080)"
   dc:issued="2021-05-14"
   dc:relation=""
