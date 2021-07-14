@@ -35,7 +35,7 @@ This group welcomes participation from interested parties with backgrounds in in
 
 The benefit of inclusion in this group is to be informed of, influence, and promote new technologies and standards having to do with genomic biodiversity collections, data and research. Members will explore new avenues for research for both biologists and informaticians, and garner the opportunities of working directly with a globally diverse set of participants.
 
-Please subscrice to our [open mailing list](http://lists.tdwg.org/mailman/listinfo/gbwg) to be informed about upcoming meetings and news. We will post working activities in the [issue area](https://github.com/tdwg/gbwg/issues) of Github.
+Please subscrice to our [open mailing list](http://lists.tdwg.org/mailman/listinfo/tdwg-gbwg) to be informed about upcoming meetings and news. We will post working activities in the [issue area](https://github.com/tdwg/gbwg/issues) of Github.
 
 ### Task groups
 
