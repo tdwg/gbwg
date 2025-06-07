@@ -39,5 +39,5 @@ Please subscribe to our [open mailing list](http://lists.tdwg.org/mailman/listin
 
 ### Task groups
 
-1. Please see the charter for the task group on [Sustainable DarwinCore MIxS Interoperability](https://www.tdwg.org/community/gbwg/MIxS/). The work of this group is captured in [dwc-mixs](dwc-mixs) and discussion on the [open mailing list](http://lists.tdwg.org/mailman/listinfo/dwc-mixs).
+1. The [Sustainable DarwinCore MIxS Interoperability](https://www.tdwg.org/community/gbwg/MIxS/) produced a [Memorandum of Understanding (MoU)](https://github.com/tdwg/gbwg/blob/main/dwc-mixs/MoU/MemorandumOfUnderstanding_TDWG-GSC.md) between TDWG and GSC that commits both organizations to maintaining interoperability between MIxS standards and the Darwin Core. The work of this group is captured in [dwc-mixs](dwc-mixs) and discussion on the [open mailing list](http://lists.tdwg.org/mailman/listinfo/dwc-mixs).
 2. [Environmental Samples and eDNA](https://www.tdwg.org/community/gbwg/enviro/). This group has been established to develop a data standard and usage guidelines for sharing environmental sample and environmental DNA data.
